@@ -11,9 +11,6 @@ ssh -x pavelmatos@tarkil.grid.cesnet.cz
 pavelmatos@nympha:~$
 #create a subdirectory where to store r packages
 mkdir -p software/R/packages
-
-#create a working directory for this tutorial
-mkdir biogeography
 ```
 
 By the time writing this tutorial, the latest R version installed in MetaCentrum was R-4.0.0-gcc. You can of course install your own R version locally at your home directory.
@@ -62,10 +59,12 @@ Note that you need to slightly modify the `script.r` and `qsub.sh` files to indi
 ssh -x pavelmatos@tarkil.grid.cesnet.cz
 
 pavelmatos@nympha:~$
-#go to the working directory for this tutorial
-cd biogeography
+#clone this repository to your working space
+git clone https://github.com/pavelm14/lab_miscellaneous.git
 
 #the four files should be already there
+#go to your working directory
+cd lab_miscellaneous/Rpackages
 
 #submit your job (R script) to the MetaCentrum
 qsub qsub.sh
