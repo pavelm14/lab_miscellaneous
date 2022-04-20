@@ -50,10 +50,10 @@ q()
 ## Historical biogeography using BioGeoBEARS
 
 You need to copy to your working directory in MetaCentrum, the following files:
-* i) `tree.tre` (a 5-species time-calibrated phylogeny in newick format),
-* ii) `distribution.txt` (the geography file for the 5 species in the phylogeny),
-* iii) `script.r` (the instructions for running the DEC biogeographical model - modified from http://phylo.wikidot.com/biogeobears#script), and
-* iv) `qsub.sh` (the instructions for running the R script in MetaCentrum).
+* `tree.tre` (a 5-species time-calibrated phylogeny in newick format),
+* `distribution.txt` (the geography file for the 5 species in the phylogeny),
+* `script.r` (the instructions for running the DEC biogeographical model - modified from http://phylo.wikidot.com/biogeobears#script), and
+* `qsub.sh` (the instructions for running the R script in MetaCentrum).
 
 Note that you need to slightly modify the `script.r` and `qsub.sh` files to indicate your username at the MetaCentrum
 
