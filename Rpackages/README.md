@@ -13,7 +13,7 @@ ssh -x pavelmatos@tarkil.grid.cesnet.cz
 mkdir -p software/R/packages
 ```
 
-By the time writing this tutorial, the latest R version installed in MetaCentrum was R-4.0.0-gcc. You can of course install your own R version locally at your home directory.
+By the time of writing this tutorial (April 2022), the latest R version installed in MetaCentrum was R-4.0.0-gcc. You can of course install your own R version locally at your home directory.
 
 ```bash
 pavelmatos@nympha:~$
