@@ -61,7 +61,6 @@ Note that you need to slightly modify the `script.r` and `qsub.sh` files to indi
 ##in the MobaXterm terminal, log in to the MetaCentrum
 ssh -x pavelmatos@tarkil.grid.cesnet.cz
 
-pavelmatos@nympha:~$
 #clone this repository to your working space
 git clone https://github.com/pavelm14/lab_miscellaneous.git
 
