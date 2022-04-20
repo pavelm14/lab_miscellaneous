@@ -1,6 +1,6 @@
 # Installing R packages
 
-Several R packages designed for evolutionary studies are already installed in the MetaCentrum. However, you might want to use R packages that are not there yet. In those cases you need to install them locally at your home directory in MetaCentrum.
+Several R packages designed for evolutionary studies are already installed in the MetaCentrum. However, you might want to use R packages that are not there yet. In those cases, you need to install them locally at your home directory in MetaCentrum.
 
 First, you need to set a directory as default to install and load R packages from.
 
