@@ -6,6 +6,7 @@ First, you need to set a directory as default to install and load R packages fro
 
 ```bash
 ##in the MobaXterm terminal, log in to the MetaCentrum
+##remember to replace my username 'pavelmatos' with yours!
 ssh -x pavelmatos@tarkil.grid.cesnet.cz
 
 pavelmatos@nympha:~$
