@@ -53,7 +53,7 @@ library(BioGeoBEARS)
 #######################################################
 # IMPORTANT!!!
 # Do change your MetaCentrum username in this path
-wd = "/storage/praha1/home/pavelmatos/biogeography/"
+wd = "/storage/praha1/home/pavelmatos/lab_miscellaneous/Rpackages/"
 setwd(wd)
 
 #######################################################
