@@ -9,7 +9,6 @@ First, you need to set a directory as default to install and load R packages fro
 ##remember to replace my username 'pavelmatos' with yours!
 ssh -x pavelmatos@tarkil.grid.cesnet.cz
 
-pavelmatos@nympha:~$
 #create a subdirectory where to store r packages
 mkdir -p software/R/packages
 ```
