@@ -26,7 +26,7 @@ R
 Once in the R console, you will be able to install and load packages from a local directory.
 
 ```R
-##let's install `devtools` to easily install packages from GitHub
+##let's install `devtools` to easily install other R packages from GitHub
 ##remember to install the package at your local library collection
 install.packages("devtools", lib="/storage/praha1/home/pavelmatos/software/R/packages")
 
