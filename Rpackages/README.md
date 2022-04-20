@@ -58,7 +58,8 @@ You need to copy to your working directory in MetaCentrum, the following files:
 Note that you need to slightly modify the `script.r` and `qsub.sh` files to indicate your username at the MetaCentrum
 
 ```bash
-##in the MobaXterm terminal, log in to the MetaCentrum
+##to copy the four files to your MetaCentrum
+##in the MobaXterm terminal, log in to the MetaCentrum, if you are not there yet
 ssh -x pavelmatos@tarkil.grid.cesnet.cz
 
 #clone this repository to your working space
