@@ -6,7 +6,7 @@
 trap 'clean_scratch' TERM EXIT
 
 #INPUT directory - with R script and other inputs
-MYIN="/storage/praha1/home/pavelmatos/biogeography"
+MYIN="/storage/praha1/home/pavelmatos/lab_miscellaneous/Rpackages"
 #INPUT R script
 MYR="script.r"
 
