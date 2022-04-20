@@ -16,7 +16,7 @@ mkdir -p software/R/packages
 By the time of writing this tutorial (April 2022), the latest R version installed in MetaCentrum was `R-4.0.0-gcc`. You can of course install your own R version locally at your home directory.
 
 ```bash
-pavelmatos@nympha:~$
+pavelmatos@tarkil:~$
 module add R-4.0.0-gcc
 ##if you want to use the latest available R version in MetaCentrum, use `module avail` to see the list of modules/programs
 
