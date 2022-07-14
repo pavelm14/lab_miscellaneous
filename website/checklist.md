@@ -1,10 +1,8 @@
 # Checklist of the butterfly subfamily Eudaminae
 We aim to keep this checklist updated. For any corrections or updates, please, send an email to pavel.matos@entu.cas.cz.
 
-**Calculator:**
-
-Number of described and valid species: 62
-
+**Calculator:**  
+Number of described and valid species: 62  
 Number of described and valid subspecies: 23
 
 ### TRIBE Entheini N.V. Grishin, 2019
