@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <style>
+      #phylogeny {
+                   display: grid;
+                   grid-template-rows: repeat(26, 10px);
+                   grid-template-columns: repeat(6, 40px) 200px;
+                 }
+      .taxon-name { align-self: center; padding-left: 10px }
+      .genus-species-name { font-style: italic }
+      .branch-line { border-bottom: solid black 1px; text-align: center }
+      .vert-line { border-right: solid black 1px; text-align: right }
+
+      #taxon1 { grid-area: 1 / 7 / span 2 / span 1 }
+      #taxon2 { grid-area: 5 / 7 / span 2 / span 1 }
+      #taxon3 { grid-area: 9 / 7 / span 2 / span 1 }
+      #taxon4 { grid-area: 13 / 7 / span 2 / span 1 }
+      #taxon5 { grid-area: 17 / 7 / span 2 / span 1 }
+      #taxon6 { grid-area: 21 / 7 / span 2 / span 1 }
+      #taxon7 { grid-area: 25 / 7 / span 2 / span 1 }
+
+      #branch1 { grid-area: 1 / 3 / span 1 / span 4 }
+      #branch2 { grid-area: 5 / 6 / span 1 / span 1 }
+      #branch3 { grid-area: 9 / 6 / span 1 / span 1 }
+      #branch4 { grid-area: 7 / 5 / span 1 / span 1 }
+      #branch5 { grid-area: 13 / 6 / span 1 / span 1 }
+      #branch6 { grid-area: 17 / 6 / span 1 / span 1 }
+      #branch7 { grid-area: 15 / 5 / span 1 / span 1 }
+      #branch8 { grid-area: 11 / 4 / span 1 / span 1 }
+      #branch9 { grid-area: 21 / 4 / span 1 / span 3 }
+      #branch10 { grid-area: 16 / 3 / span 1 / span 1 }
+      #branch11 { grid-area: 9 / 2 / span 1 / span 1 }
+      #branch12 { grid-area: 25 / 2 / span 1 / span 5 }
+
+      #vline1 { grid-area: 6 / 5 / span 2 / span 1 }
+      #vline2 { grid-area: 8 / 5 / span 2 / span 1 }
+      #vline3 { grid-area: 14 / 5 / span 2 / span 1 }
+      #vline4 { grid-area: 16 / 5 / span 2 / span 1 }
+      #vline5 { grid-area: 8 / 4 / span 4 / span 1 }
+      #vline6 { grid-area: 12 / 4 / span 4 / span 1 }
+      #vline7 { grid-area: 12 / 3 / span 5 / span 1 }
+      #vline8 { grid-area: 17 / 3 / span 5 / span 1 }
+      #vline9 { grid-area: 2 / 2 / span 8 / span 1 }
+      #vline10 { grid-area: 10 / 2 / span 7 / span 1 }
+      #vline11 { grid-area: 10 / 1 / span 8 / span 1 }
+      #vline12 { grid-area: 18 / 1 / span 8 / span 1 }
+
+    </style>
+  </head>
+  <body>
+    <div id="unique_phylogeny_container" class="phylogeny_container">
+      <div id="phylogeny" class="phylogeny_grid">
+
+        <div id="taxon1" class="genus-species-name taxon-name">Drephalys</div>
+        <div id="taxon2" class="genus-species-name taxon-name">Hyalothyrus</div>
+        <div id="taxon3" class="genus-species-name taxon-name">Phanus</div>
+        <div id="taxon4" class="genus-species-name taxon-name">Entheus</div>
+        <div id="taxon5" class="genus-species-name taxon-name">Augiades</div>
+        <div id="taxon6" class="genus-species-name taxon-name">Tarsoctenus</div>
+        <div id="taxon7" class="genus-species-name taxon-name">Udranomia</div>
+
+        <div id="branch1" class="branch-line">&nbsp;</div>
+        <div id="branch2" class="branch-line">&nbsp;</div>
+        <div id="branch3" class="branch-line">&nbsp;</div>
+        <div id="branch4" class="branch-line">&nbsp;</div>
+        <div id="branch5" class="branch-line">&nbsp;</div>
+        <div id="branch6" class="branch-line">&nbsp;</div>
+        <div id="branch7" class="branch-line">&nbsp;</div>
+        <div id="branch8" class="branch-line">&nbsp;</div>
+        <div id="branch9" class="branch-line">&nbsp;</div>
+        <div id="branch10" class="branch-line">&nbsp;</div>
+        <div id="branch11" class="branch-line">&nbsp;</div>
+        <div id="branch12" class="branch-line">&nbsp;</div>
+
+        <div id="vline1" class="vert-line">&nbsp;</div>
+        <div id="vline2" class="vert-line">&nbsp;</div>
+        <div id="vline3" class="vert-line">&nbsp;</div>
+        <div id="vline4" class="vert-line">&nbsp;</div>
+        <div id="vline5" class="vert-line">&nbsp;</div>
+        <div id="vline6" class="vert-line">&nbsp;</div>
+        <div id="vline7" class="vert-line">&nbsp;</div>
+        <div id="vline8" class="vert-line">&nbsp;</div>
+        <div id="vline9" class="vert-line">&nbsp;</div>
+        <div id="vline10" class="vert-line">&nbsp;</div>
+        <div id="vline11" class="vert-line">&nbsp;</div>
+        <div id="vline12" class="vert-line">&nbsp;</div>
+
+      </div>
+    </div>
+  </body>
+</html>
