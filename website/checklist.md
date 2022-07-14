@@ -14,9 +14,9 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;SPEC Drephalys kidonoi J.M. Burns, 2000  
 &ensp;&ensp;SPEC Drephalys phoenicoides (P. Mabille & E. Boullet, 1919)  
 &ensp;&ensp;SPEC Drephalys phoenice (W.C. Hewitson, 1867)  
-&ensp;&ensp;SPEC Drephalys citrinus Madruga, Siewert, O. Mielke & Casagrande, 2018  
-&ensp;&ensp;SPEC Drephalys dracarys Madruga, Siewert, O. Mielke & Casagrande, 2018  
-&ensp;&ensp;SPEC Drephalys electrinus Madruga, Siewert, O. Mielke & Casagrande, 2018  
+&ensp;&ensp;[SPEC Drephalys citrinus Madruga, Siewert, O. Mielke & Casagrande, 2018](https://doi.org/10.11646/zootaxa.4472.3.9)  
+&ensp;&ensp;[SPEC Drephalys dracarys Madruga, Siewert, O. Mielke & Casagrande, 2018](https://doi.org/10.11646/zootaxa.4472.3.9)  
+&ensp;&ensp;[SPEC Drephalys electrinus Madruga, Siewert, O. Mielke & Casagrande, 2018](https://doi.org/10.11646/zootaxa.4472.3.9)  
 &ensp;&ensp;SPEC Drephalys heraclides E.L. Bell, 1942  
 &ensp;&ensp;SPEC Drephalys miersi O. Mielke, 1968  
 &ensp;&ensp;SPEC Drephalys opifex W.H. Evans, 1952  
