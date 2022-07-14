@@ -106,3 +106,4 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia rufibasis E. Boullet, 1910  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia plutia (W.C. Hewitson, 1857)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia luna W.H. Evans, 1952  
+### TRIBE Phocidini Tutt, 1906
