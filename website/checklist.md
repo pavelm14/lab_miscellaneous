@@ -11,6 +11,11 @@ In cases of updates (revisions, new species descriptions, etc.), we provide the 
 Number of described and valid species: 62  
 Number of described and valid subspecies: 23
 
+**[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**
+Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
+
+We complement the phylogenetic information with the photographs available at the [Butterflies of America](http://www.butterfliesofamerica.com/L/Neotropical.htm), a digitized collection of photos of type specimens, archived collections and live butterflies found in the Neotropics
+
 ### TRIBE Entheini N.V. Grishin, 2019
 #### &ensp;[GEN Drephalys E.Y. Watson, 1893](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/drephalys)
 ##### &ensp;SUBGEN Drephalys E.Y. Watson, 1893
