@@ -1,6 +1,12 @@
 # Checklist of the butterfly subfamily Eudaminae
 We aim to keep this checklist updated. For any corrections or updates, please, send an email to pavel.matos@entu.cas.cz.
 
+The checklist is mainly based on Gerardo Lamas' Neotropical Checklist published in 2004. You can find a list-parsed format of such a work [here](https://www.ucl.ac.uk/taxome/gbn/).
+
+The Lamas' checklist has been also implemented in the ["Lepidoptera and some other life forms"](https://www.nic.funet.fi/pub/sci/bio/life/intro.html) website (Markku Savela). The links in every genus below redirect to such a work, where you will find all the species recognized by Lamas 2004.
+
+In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
+
 **Calculator:**  
 Number of described and valid species: 62  
 Number of described and valid subspecies: 23
