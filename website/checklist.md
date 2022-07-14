@@ -90,12 +90,12 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;&ensp;&ensp;SUBS Entheus matho dius P. Mabille, 1898  
 &ensp;&ensp;SPEC Entheus crux S.R. Steinhauser, 1989  
 &ensp;&ensp;[SPEC Entheus warreni Grishin, 2012](https://journals.flvc.org/troplep/article/view/89694)  
-#### &ensp;GEN Augiades J. Hübner, [1819]
+#### &ensp;[GEN Augiades J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/augiades/)
 &ensp;&ensp;SPEC Augiades crinisus (P. Cramer, 1780)  
 &ensp;&ensp;SPEC Augiades epimethea (C. Plötz, 1883)  
 &ensp;&ensp;&ensp;&ensp;SUBS Augiades epimethea bicolor (P. Mabille & E. Boullet, 1919)  
 &ensp;&ensp;&ensp;&ensp;SUBS Augiades epimethea epimethea (C. Plötz, 1883)  
-#### &ensp;GEN Tarsoctenus E.Y. Watson, 1893
+#### &ensp;[GEN Tarsoctenus E.Y. Watson, 1893](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/tarsoctenus/)
 &ensp;&ensp;SPEC Tarsoctenus papias (W.C. Hewitson, 1857)  
 &ensp;&ensp;SPEC Tarsoctenus corytus (P. Cramer, 1777)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus corytus gaudialis (W.C. Hewitson, 1876)  
