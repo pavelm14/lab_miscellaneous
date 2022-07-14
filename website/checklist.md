@@ -32,8 +32,8 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;SPEC Drephalys tortus G.T. Austin, 1995  
 #### &ensp;[GEN Udranomia A.G. Butler, 1870](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/udranomia)
 &ensp;&ensp;SPEC Udranomia orcinus (C. Felder & R. Felder, 1867)  
-&ensp;&ensp;SPEC Udranomia tomdaleyi Burns, 2017  
-&ensp;&ensp;SPEC Udranomia sallydaleyae Burns, 2017  
+&ensp;&ensp;[SPEC Udranomia tomdaleyi Burns, 2017](https://doi.org/10.1073/pnas.1621504114)  
+&ensp;&ensp;[SPEC Udranomia sallydaleyae Burns, 2017](https://doi.org/10.1073/pnas.1621504114)  
 &ensp;&ensp;SPEC Udranomia kikkawai (A.G. Weeks, 1906)  
 &ensp;&ensp;SPEC Udranomia eurus (P. Mabille & E. Boullet, 1919)  
 &ensp;&ensp;SPEC Udranomia spitzi (K.J. Hayward, 1942)  
