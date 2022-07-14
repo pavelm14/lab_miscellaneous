@@ -1,0 +1,71 @@
+<html>
+  <head>
+    <style>
+      #phylogeny {
+                   display: grid;
+                   grid-template-rows: repeat(18, 10px);
+                   grid-template-columns: repeat(5, 40px) 200px;
+                 }
+      .taxon-name { align-self: center; padding-left: 10px }
+      .genus-species-name { font-style: italic }
+      .branch-line { border-bottom: solid black 1px; text-align: center }
+      .vert-line { border-right: solid black 1px; text-align: right }
+
+      #taxon1 { grid-area: 1 / 6 / span 2 / span 1 }
+      #taxon2 { grid-area: 5 / 6 / span 2 / span 1 }
+      #taxon3 { grid-area: 9 / 6 / span 2 / span 1 }
+      #taxon4 { grid-area: 13 / 6 / span 2 / span 1 }
+      #taxon5 { grid-area: 17 / 6 / span 2 / span 1 }
+
+      #branch1 { grid-area: 1 / 2 / span 1 / span 4 }
+      #branch2 { grid-area: 5 / 3 / span 1 / span 3 }
+      #branch3 { grid-area: 9 / 4 / span 1 / span 2 }
+      #branch4 { grid-area: 13 / 5 / span 1 / span 1 }
+      #branch5 { grid-area: 17 / 5 / span 1 / span 1 }
+      #branch6 { grid-area: 15 / 4 / span 1 / span 1 }
+      #branch7 { grid-area: 12 / 3 / span 1 / span 1 }
+      #branch8 { grid-area: 9 / 2 / span 1 / span 1 }
+
+      #vline1 { grid-area: 14 / 4 / span 2 / span 1 }
+      #vline2 { grid-area: 16 / 4 / span 2 / span 1 }
+      #vline3 { grid-area: 10 / 3 / span 3 / span 1 }
+      #vline4 { grid-area: 13 / 3 / span 3 / span 1 }
+      #vline5 { grid-area: 6 / 2 / span 4 / span 1 }
+      #vline6 { grid-area: 10 / 2 / span 3 / span 1 }
+      #vline7 { grid-area: 2 / 1 / span 4 / span 1 }
+      #vline8 { grid-area: 6 / 1 / span 4 / span 1 }
+
+    </style>
+  </head>
+  <body>
+    <div id="unique_phylogeny_container" class="phylogeny_container">
+      <div id="phylogeny" class="phylogeny_grid">
+
+        <div id="taxon1" class="genus-species-name taxon-name">Typhedanus</div>
+        <div id="taxon2" class="genus-species-name taxon-name">Cogia</div>
+        <div id="taxon3" class="genus-species-name taxon-name">Nerula</div>
+        <div id="taxon4" class="genus-species-name taxon-name">Oechydrus</div>
+        <div id="taxon5" class="genus-species-name taxon-name">Marela</div>
+
+        <div id="branch1" class="branch-line">&nbsp;</div>
+        <div id="branch2" class="branch-line">&nbsp;</div>
+        <div id="branch3" class="branch-line">&nbsp;</div>
+        <div id="branch4" class="branch-line">&nbsp;</div>
+        <div id="branch5" class="branch-line">&nbsp;</div>
+        <div id="branch6" class="branch-line">&nbsp;</div>
+        <div id="branch7" class="branch-line">&nbsp;</div>
+        <div id="branch8" class="branch-line">&nbsp;</div>
+
+        <div id="vline1" class="vert-line">&nbsp;</div>
+        <div id="vline2" class="vert-line">&nbsp;</div>
+        <div id="vline3" class="vert-line">&nbsp;</div>
+        <div id="vline4" class="vert-line">&nbsp;</div>
+        <div id="vline5" class="vert-line">&nbsp;</div>
+        <div id="vline6" class="vert-line">&nbsp;</div>
+        <div id="vline7" class="vert-line">&nbsp;</div>
+        <div id="vline8" class="vert-line">&nbsp;</div>
+
+      </div>
+    </div>
+  </body>
+</html>
