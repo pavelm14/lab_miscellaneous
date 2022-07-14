@@ -66,6 +66,7 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus pemphigargyra (P. Mabille, 1888)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neleus (C. Linnaeus, 1758)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neda** W.H. Evans, 1952  
+&ensp;&ensp;\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on COI barcodes differences  
 #### &ensp;[GEN Entheus J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/entheus/)
 &ensp;&ensp;SPEC Entheus eumelus (P. Cramer, 1777)  
 &ensp;&ensp;SPEC Entheus ninyas H.H. Druce, 1912  
