@@ -6,9 +6,9 @@ Number of described and valid species: 62
 Number of described and valid subspecies: 23
 
 ### TRIBE Entheini N.V. Grishin, 2019
-#### &ensp;GEN Drephalys E.Y. Watson, 1893
+#### &ensp;[GEN Drephalys E.Y. Watson, 1893](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/drephalys)
 ##### &ensp;SUBGEN Drephalys E.Y. Watson, 1893
-&ensp;&ensp;SPEC Drephalys alcmon (P. Cramer, 1779)(http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/drephalys/#alcmon)  
+&ensp;&ensp;SPEC Drephalys alcmon (P. Cramer, 1779)  
 &ensp;&ensp;SPEC Drephalys mourei O. Mielke, 1968  
 &ensp;&ensp;SPEC Drephalys helixus (W.C. Hewitson, 1877)  
 &ensp;&ensp;SPEC Drephalys kidonoi J.M. Burns, 2000  
