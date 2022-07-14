@@ -43,7 +43,7 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;SPEC Udranomia kikkawai (A.G. Weeks, 1906)  
 &ensp;&ensp;SPEC Udranomia eurus (P. Mabille & E. Boullet, 1919)  
 &ensp;&ensp;SPEC Udranomia spitzi (K.J. Hayward, 1942)  
-#### &ensp;GEN Phanus J. Hübner, [1819]
+#### &ensp;[GEN Phanus J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/phanus/)
 &ensp;&ensp;SPEC Phanus australis L.D. Miller, 1965  
 &ensp;&ensp;SPEC Phanus vitreus (C. Stoll, 1781)  
 &ensp;&ensp;SPEC Phanus ecitonorum G.T. Austin, 1993  
@@ -55,7 +55,7 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;&ensp;&ensp;SUBS Phanus obscurior obscurior W.J. Kaye, 1925  
 &ensp;&ensp;&ensp;&ensp;SUBS Phanus obscurior prestoni L.D. Miller, 1965  
 &ensp;&ensp;SPEC Phanus marshalli (W.F. Kirby, 1880)  
-#### &ensp;GEN Hyalothyrus P. Mabille, 1878
+#### &ensp;[GEN Hyalothyrus P. Mabille, 1878](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/hyalothyrus/)
 &ensp;&ensp;SPEC Hyalothyrus infernalis (H.B. Möschler, 1877)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus infernalis infernalis (H.B. Möschler, 1877)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus infernalis infa** W.H. Evans, 1952  
@@ -66,7 +66,7 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus pemphigargyra (P. Mabille, 1888)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neleus (C. Linnaeus, 1758)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neda** W.H. Evans, 1952  
-#### &ensp;GEN Entheus J. Hübner, [1819]
+#### &ensp;[GEN Entheus J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/entheus/)
 &ensp;&ensp;SPEC Entheus eumelus (P. Cramer, 1777)  
 &ensp;&ensp;SPEC Entheus ninyas H.H. Druce, 1912  
 &ensp;&ensp;SPEC Entheus eunyas G.T. Austin, O. Mielke & S.R. Steinhauser, 1997  
@@ -74,7 +74,7 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;SPEC Entheus gentius (P. Cramer, 1777)  
 &ensp;&ensp;SPEC Entheus bombus G.T. Austin, O. Mielke & S.R. Steinhauser, 1997  
 &ensp;&ensp;SPEC Entheus aureolus G.T. Austin, O. Mielke & S.R. Steinhauser, 1997  
-&ensp;&ensp;SPEC Entheus huertaseae Grishin, 2013  
+&ensp;&ensp;[SPEC Entheus huertaseae Grishin, 2013](http://lepidopteraresearchfoundation.org/journals/46/jrl_46_91_103.pdf)  
 &ensp;&ensp;SPEC Entheus telemus P. Mabille, 1898  
 &ensp;&ensp;SPEC Entheus latebrosus G.T. Austin, 1997  
 &ensp;&ensp;SPEC Entheus priassus (C. Linnaeus, 1758)  
@@ -85,11 +85,11 @@ Number of described and valid subspecies: 23
 &ensp;&ensp;SPEC Entheus matho F.D. Godman & O. Salvin, 1879  
 &ensp;&ensp;&ensp;&ensp;SUBS Entheus matho matho F.D. Godman & O. Salvin, 1879  
 &ensp;&ensp;&ensp;&ensp;SUBS Entheus matho latifascius M.E.R. Hering, 1925  
-&ensp;&ensp;&ensp;&ensp;SUBS Entheus matho marmato Salazar & Vargas, 2017  
+&ensp;&ensp;&ensp;&ensp;[SUBS Entheus matho marmato Salazar & Vargas, 2017](https://doi.org/10.17151/bccm.2016.20.1.13)  
 &ensp;&ensp;&ensp;&ensp;SUBS Entheus matho aequatorius P. Mabille & E. Boullet, 1919  
 &ensp;&ensp;&ensp;&ensp;SUBS Entheus matho dius P. Mabille, 1898  
 &ensp;&ensp;SPEC Entheus crux S.R. Steinhauser, 1989  
-&ensp;&ensp;SPEC Entheus warreni Grishin, 2012  
+&ensp;&ensp;[SPEC Entheus warreni Grishin, 2012](https://journals.flvc.org/troplep/article/view/89694)  
 #### &ensp;GEN Augiades J. Hübner, [1819]
 &ensp;&ensp;SPEC Augiades crinisus (P. Cramer, 1780)  
 &ensp;&ensp;SPEC Augiades epimethea (C. Plötz, 1883)  
