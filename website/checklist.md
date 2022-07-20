@@ -8,8 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 62  
-Number of described and valid subspecies: 23
+Number of described and valid species: 81  
+Number of described and valid subspecies: 54
+
+Entheini valid species: 62  
+Phocidini valid species: 19
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -113,3 +116,54 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia plutia (W.C. Hewitson, 1857)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia luna W.H. Evans, 1952  
 ### TRIBE Phocidini Tutt, 1906
+#### &ensp;[GEN Phocides J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/phocides)
+&ensp;&ensp;SPEC Phocides polybius (J.C. Fabricius, 1793)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides polybius lilea (T. Reakirt, [1867])  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides polybius polybius (J.C. Fabricius, 1793)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides polybius phanias (H.C.C. Burmeister, 1880)  
+&ensp;&ensp;SPEC Phocides charon (C. Felder & R. Felder, 1859)  
+&ensp;&ensp;[SPEC Phocides petroleum Siewert, Leviski, Mielke & Casagrande, 2018](https://doi.org/10.1590/1678-4766e2018023)  
+&ensp;&ensp;SPEC Phocides distans (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides distans licinus (H.B. Möschler, 1879)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides distans distans (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides distans silva W.H. Evans, 1952  
+&ensp;&ensp;SPEC Phocides perillus (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Phocides metrodorus E.L. Bell, 1932  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides metrodorus nigrescens E.L. Bell, 1938  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides metrodorus metrodorus E.L. Bell, 1932  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides metrodorus metron W.H. Evans, 1952  
+&ensp;&ensp;SPEC Phocides vulcanides J.K.M. Röber, 1925  
+&ensp;&ensp;SPEC Phocides novalis W.H. Evans, 1952  
+&ensp;&ensp;SPEC Phocides thermus (P. Mabille, 1883)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides thermus thermus (P. Mabille, 1883)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides thermus bellina W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides thermus valgus (P. Mabille, 1883)  
+&ensp;&ensp;SPEC Phocides partia W.H. Evans, 1952  
+&ensp;&ensp;SPEC Phocides padrona W.H. Evans, 1952  
+&ensp;&ensp;SPEC Phocides belus F.D. Godman & O. Salvin, 1893  
+&ensp;&ensp;SPEC Phocides pigmalion (P. Cramer, 1779)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion pigmalion (P. Cramer, 1779)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion hewitsonius (P. Mabille, 1883)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion okeechobee (C.E. Worthington, 1881)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion batabanoides (W.J. Holland, 1903)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion batabano (P.H. Lucas, 1857)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion bicolora (P. Boddaert, 1783)  
+&ensp;&ensp;SPEC Phocides johnsoni E.L. Bell, 1947  
+&ensp;&ensp;SPEC Phocides urania (J.O. Westwood, 1852)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides urania urania (J.O. Westwood, 1852)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides urania vida (A.G. Butler, 1872)  
+&ensp;&ensp;SPEC Phocides pialia (W.C. Hewitson, 1857)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pialia maximus (P. Mabille, 1888)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pialia intermedia O. Mielke, 1992  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides pialia pialia (W.C. Hewitson, 1857)  
+&ensp;&ensp;SPEC Phocides oreides (W.C. Hewitson, [1875])  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides oreides colombiana E.L. Bell, 1938  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides oreides oreides (W.C. Hewitson, [1875])  
+&ensp;&ensp;SPEC Phocides yokhara (A.G. Butler, 1870)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides yokhara yokhara (A.G. Butler, 1870)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides yokhara inca F.L. Le Cerf, 1922  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides yokhara dryas F.L. Le Cerf, 1922  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides yokhara charonotis (W.C. Hewitson, 1874)  
+&ensp;&ensp;SPEC Phocides lincea (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides lincea lincea (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides lincea perkinsi (W.J. Kaye, 1931)  
