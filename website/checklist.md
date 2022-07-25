@@ -167,3 +167,18 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Phocides lincea (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides lincea lincea (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides lincea perkinsi (W.J. Kaye, 1931)  
+#### &ensp;[GEN Nascus E.Y. Watson, 1893](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)
+&ensp;&ensp;SPEC Nascus phintias W. Schaus, 1913  
+&ensp;&ensp;SPEC Nascus phocus (P. Cramer, 1777)  
+#### &ensp;[GEN Pseudonascus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)
+&ensp;&ensp;[SPEC Pseudonascus solon (C. Plötz, 1882)](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
+&ensp;&ensp;&ensp;&ensp;[SUBS Pseudonascus solon corilla (W.H. Evans, [1952])](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
+&ensp;&ensp;&ensp;&ensp;[SUBS Pseudonascus solon solon (C. Plötz, 1882)](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
+&ensp;&ensp;[SPEC Pseudonascus broteas (P. Cramer, 1780)](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
+&ensp;&ensp;SPEC Pseudonascus paulliniae (J. Sepp, [1842])  
+&ensp;&ensp;[SPEC Pseudonascus prax (W.H. Evans, [1952])](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
+#### &ensp;[GEN Aurina W.H. Evans, 1937](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/aurina/)
+&ensp;&ensp;SPEC Aurina dida W.H. Evans, 1937  
+&ensp;&ensp;[SPEC Aurina azines (W.C. Hewitson, 1867)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/oileides/)  
+#### &ensp;[GEN Emmelus O. Mielke & Casagrande, 2016](https://www.redalyc.org/pdf/455/45549852004.pdf)
+&ensp;&ensp;[SPEC Emmelus purpurascens (P. Mabille & E. Boullet, 1912)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/iliana/)  
