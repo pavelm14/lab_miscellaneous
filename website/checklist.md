@@ -182,3 +182,37 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Aurina azines (W.C. Hewitson, 1867)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/oileides/)  
 #### &ensp;[GEN Emmelus O. Mielke & Casagrande, 2016](https://www.redalyc.org/pdf/455/45549852004.pdf)
 &ensp;&ensp;[SPEC Emmelus purpurascens (P. Mabille & E. Boullet, 1912)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/iliana/)  
+#### &ensp;[GEN Porphyrogenes E.Y. Watson, 1893](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/porphyrogenes/)
+&ensp;&ensp;SPEC Porphyrogenes stupa W.H. Evans, 1952
+&ensp;&ensp;[SPEC Porphyrogenes omphale (A.G. Butler, 1871)](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;SPEC Porphyrogenes passalus (G.A.W. Herrich-Schäffer, 1869)
+&ensp;&ensp;[SPEC Porphyrogenes speciosus Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes convexus Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes sparus Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes spadix Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes peterwegei Burns, 2010](https://repository.si.edu/bitstream/handle/10088/9731/ent_Porphyrogen_hipdf_PESW_10.pdf?sequence=1&isAllowed=y)
+&ensp;&ensp;SPEC Porphyrogenes sororcula (P. Mabille & E. Boullet, 1912)
+&ensp;&ensp;[SPEC Porphyrogenes specularis Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;SPEC Porphyrogenes probus (H.B. Möschler, 1877)
+&ensp;&ensp;SPEC Porphyrogenes vulpecula (C. Plötz, 1882)
+&ensp;&ensp;SPEC Porphyrogenes zohra (H.B. Möschler, 1879)
+&ensp;&ensp;[SPEC Porphyrogenes virgatus (Mabille, 1888)](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes eudemus (Mabille, 1888)](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes splendidus Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes simulator Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes sula (R. Williams & E. Bell, 1940)](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes spina Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes sporta Austin & O. Mielke, 2008](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;[SPEC Porphyrogenes stresa W.H. Evans, 1952](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;SPEC Porphyrogenes boliva W.H. Evans, 1952
+&ensp;&ensp;SPEC Porphyrogenes spoda W.H. Evans, 1952
+&ensp;&ensp;[SPEC Porphyrogenes ferruginea Plötz, 1883](http://doi.org/10.5281/zenodo.5169696)
+&ensp;&ensp;SPEC Porphyrogenes despecta (A.G. Butler, 1870)
+&ensp;&ensp;SPEC Porphyrogenes pausias (W.C. Hewitson, 1867)
+&ensp;&ensp;SPEC Porphyrogenes spanda W.H. Evans, 1952
+&ensp;&ensp;SPEC Porphyrogenes sparta W.H. Evans, 1952
+&ensp;&ensp;SPEC Porphyrogenes glavia W.H. Evans, 1952
+&ensp;&ensp;[SPEC Porphyrogenes calathana (W.C. Hewitson, 1868)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/ocyba/)
+&ensp;&ensp;&ensp;&ensp;SUBS Porphyrogenes calathana calanus (F.D. Godman & O. Salvin, 1894)
+&ensp;&ensp;&ensp;&ensp;SUBS Porphyrogenes calathana calathana (W.C. Hewitson, 1868)
+&ensp;&ensp;&ensp;&ensp;SUBS Porphyrogenes calathana compusa (W.C. Hewitson, 1868)
