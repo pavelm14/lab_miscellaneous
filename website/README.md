@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 130  
+Number of described and valid species: 136  
 Number of described and valid subspecies: 59
 
 Entheini valid species: 62  
-Phocidini valid species: 68
+Phocidini valid species: 74
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -229,3 +229,10 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Salantoia Grishin, 2019](https://doi.org/10.1073/pnas.1821304116)
 &ensp;&ensp;[SPEC Salantoia dinka (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
 &ensp;&ensp;[SPEC Salantoia eriopis (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
+#### &ensp;[GEN Sarmientoia F.W.K. Berg, 1897](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)
+&ensp;&ensp;SPEC Sarmientoia phaselis (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Sarmientoia faustinus (H.C.C. Burmeister, 1878)  
+&ensp;&ensp;SPEC Sarmientoia haywardi O. Mielke, 1967  
+&ensp;&ensp;SPEC Sarmientoia similis O. Mielke, 1967  
+&ensp;&ensp;SPEC Sarmientoia almeidai O. Mielke, 1967  
+&ensp;&ensp;SPEC Sarmientoia browni O. Mielke, 1967  
