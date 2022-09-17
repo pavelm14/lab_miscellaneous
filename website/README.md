@@ -241,7 +241,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Bungalotis diophorus (H.B. Möschler, 1883)  
 &ensp;&ensp;SPEC Bungalotis gagarini O. Mielke, 1967  
 &ensp;&ensp;SPEC Bungalotis midas (P. Cramer, 1775)  
-&ensp;&ensp;SPEC Bungalotis aureus Austin, 2008  
+&ensp;&ensp;[SPEC Bungalotis aureus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)  
 &ensp;&ensp;SPEC Bungalotis astylos (P. Cramer, 1780)  
 &ensp;&ensp;SPEC Bungalotis milleri H.A. Freeman, 1977  
 &ensp;&ensp;SPEC Bungalotis quadratum (J. Sepp, [1845])  
