@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 148  
-Number of described and valid subspecies: 61
+Number of described and valid species: 151  
+Number of described and valid subspecies: 66
 
 Entheini valid species: 62  
-Phocidini valid species: 86
+Phocidini valid species: 89
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -251,3 +251,12 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Bungalotis clusia W.H. Evans, 1952  
 &ensp;&ensp;SPEC Bungalotis borax W.H. Evans, 1952  
 &ensp;&ensp;[SPEC Bungalotis lactos W.H. Evans, 1952](http://doi.org/10.5281/zenodo.4532815)  
+#### &ensp;[GEN Euriphellus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)
+&ensp;&ensp;[SPEC Euriphellus euribates (C. Stoll, 1782)](http://doi.org/10.5281/zenodo.4532815)  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates euribates (C. Stoll, 1782)  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates polygius** (P.A. Latreille, [1824])  
+&ensp;&ensp;[SPEC Euriphellus phraxanor (W.C. Hewitson, 1876)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor lama** W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor phraxanor (W.C. Hewitson, 1876)  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor mena** W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Euriphellus marian W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
