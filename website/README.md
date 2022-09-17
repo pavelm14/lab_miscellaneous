@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 121  
+Number of described and valid species: 128  
 Number of described and valid subspecies: 59
 
 Entheini valid species: 62  
-Phocidini valid species: 59
+Phocidini valid species: 66
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -218,3 +218,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Porphyrogenes calathana compusa (W.C. Hewitson, 1868)  
 #### &ensp;[GEN Nicephellus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)
 &ensp;&ensp;[SPEC Nicephellus nicephorus (W.C. Hewitson, 1876)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
+#### &ensp;[GEN Salatis W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/salatis/)
+&ensp;&ensp;SPEC Salatis canalis (H. Skinner, 1920)  
+&ensp;&ensp;SPEC Salatis salatis (C. Stoll, 1782)  
+&ensp;&ensp;SPEC Salatis cebrenus (P. Cramer, 1777)  
+&ensp;&ensp;SPEC Salatis fulvius (C. Plötz, 1882)  
+&ensp;&ensp;SPEC Salatis scyrus (E.L. Bell, 1934)  
+&ensp;&ensp;SPEC Salatis flavomarginatus (J. Sepp, [1851])  
+&ensp;&ensp;[SPEC Salatis sapucayae (P. Jörgensen, 1935)]((http://doi.org/10.5281/zenodo.4532815))  
