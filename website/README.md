@@ -225,4 +225,4 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Salatis fulvius (C. Plötz, 1882)  
 &ensp;&ensp;SPEC Salatis scyrus (E.L. Bell, 1934)  
 &ensp;&ensp;SPEC Salatis flavomarginatus (J. Sepp, [1851])  
-&ensp;&ensp;[SPEC Salatis sapucayae (P. Jörgensen, 1935)]((http://doi.org/10.5281/zenodo.4532815))  
+&ensp;&ensp;[SPEC Salatis sapucayae (P. Jörgensen, 1935)](http://doi.org/10.5281/zenodo.4532815)  
