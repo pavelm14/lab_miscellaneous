@@ -228,4 +228,4 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Salatis sapucayae (P. Jörgensen, 1935)](http://doi.org/10.5281/zenodo.4532815)  
 #### &ensp;[GEN Salantoia Grishin, 2019](https://doi.org/10.1073/pnas.1821304116)
 &ensp;&ensp;[SPEC Salantoia dinka (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
-&ensp;&ensp;[SPEC Salantoia eriopis (W.C. Hewitson, 1867)[https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
+&ensp;&ensp;[SPEC Salantoia eriopis (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
