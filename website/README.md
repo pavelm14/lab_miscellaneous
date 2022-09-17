@@ -276,3 +276,6 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Phareas J.O. Westwood, 1852](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/phareas/)
 &ensp;&ensp;[SPEC Phareas burnsi Grishin, 2013](https://doi.org/10.18473/lepi.v67i3.a3)  
 &ensp;&ensp;SPEC Phareas coeleste J.O. Westwood, 1852  
+### TRIBE Eudamini Mabille, 1877
+#### SUBTR Eudamina Mabille, 1877
+#### &ensp;[GEN Cecropterus Herrich-Schäffer, 1869](https://doi.org/10.1073/pnas.1821304116)
