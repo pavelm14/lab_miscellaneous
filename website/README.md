@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 128  
+Number of described and valid species: 130  
 Number of described and valid subspecies: 59
 
 Entheini valid species: 62  
-Phocidini valid species: 66
+Phocidini valid species: 68
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -226,3 +226,6 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Salatis scyrus (E.L. Bell, 1934)  
 &ensp;&ensp;SPEC Salatis flavomarginatus (J. Sepp, [1851])  
 &ensp;&ensp;[SPEC Salatis sapucayae (P. Jörgensen, 1935)](http://doi.org/10.5281/zenodo.4532815)  
+#### &ensp;[GEN Salantoia Grishin, 2019](https://doi.org/10.1073/pnas.1821304116)
+&ensp;&ensp;[SPEC Salantoia dinka (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
+&ensp;&ensp;[SPEC Salantoia eriopis (W.C. Hewitson, 1867)[https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
