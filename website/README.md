@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 151  
-Number of described and valid subspecies: 66
+Number of described and valid species: 160  
+Number of described and valid subspecies: 68
 
 Entheini valid species: 62  
-Phocidini valid species: 89
+Phocidini valid species: 98
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -261,3 +261,15 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor mena*** W.H. Evans, 1952  
 &ensp;&ensp;[SPEC Euriphellus marian W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
 &ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unclear morphological features  
+#### &ensp;[GEN Dyscophellus F.D. Godman & O. Salvin, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)
+&ensp;&ensp;SPEC Dyscophellus porcius (C. Felder & R. Felder, 1862)  
+&ensp;&ensp;&ensp;&ensp;SUBS Dyscophellus porcius porcius (C. Felder & R. Felder, 1862)  
+&ensp;&ensp;&ensp;&ensp;SUBS Dyscophellus porcius doriscus (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Dyscophellus sebaldus (C. Stoll, 1781)  
+&ensp;&ensp;SPEC Dyscophellus erythras (P. Mabille, 1888)  
+&ensp;&ensp;[SPEC Dyscophellus mielkei Austin, 2008](http://doi.org/10.5281/zenodo.4532815)  
+&ensp;&ensp;SPEC Dyscophellus diaphorus (P. Mabille & E. Boullet, 1912)  
+&ensp;&ensp;[SPEC Dyscophellus porsena (E. Bell, 1934)](http://doi.org/10.5281/zenodo.4532815)  
+&ensp;&ensp;[SPEC Dyscophellus ramon W.H. Evans, 1952](http://doi.org/10.5281/zenodo.4532815)  
+&ensp;&ensp;SPEC Dyscophellus ramusis (C. Stoll, 1781)  
+&ensp;&ensp;SPEC Dyscophellus damias (C. Plötz, 1882)  
