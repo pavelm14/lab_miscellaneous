@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 136  
-Number of described and valid subspecies: 59
+Number of described and valid species: 148  
+Number of described and valid subspecies: 61
 
 Entheini valid species: 62  
-Phocidini valid species: 74
+Phocidini valid species: 86
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -236,3 +236,18 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Sarmientoia similis O. Mielke, 1967  
 &ensp;&ensp;SPEC Sarmientoia almeidai O. Mielke, 1967  
 &ensp;&ensp;SPEC Sarmientoia browni O. Mielke, 1967  
+#### &ensp;[GEN Bungalotis E.Y. Watson, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/bungalotis/)
+&ensp;&ensp;SPEC Bungalotis erythus (P. Cramer, 1775)  
+&ensp;&ensp;SPEC Bungalotis diophorus (H.B. Möschler, 1883)  
+&ensp;&ensp;SPEC Bungalotis gagarini O. Mielke, 1967  
+&ensp;&ensp;SPEC Bungalotis midas (P. Cramer, 1775)  
+&ensp;&ensp;SPEC Bungalotis aureus Austin, 2008  
+&ensp;&ensp;SPEC Bungalotis astylos (P. Cramer, 1780)  
+&ensp;&ensp;SPEC Bungalotis milleri H.A. Freeman, 1977  
+&ensp;&ensp;SPEC Bungalotis quadratum (J. Sepp, [1845])  
+&ensp;&ensp;&ensp;&ensp;SUBS Bungalotis quadratum quadratum (J. Sepp, [1845])  
+&ensp;&ensp;&ensp;&ensp;SUBS Bungalotis quadratum barba W.H. Evans, 1952  
+&ensp;&ensp;SPEC Bungalotis sipa R. de Jong, 1983  
+&ensp;&ensp;SPEC Bungalotis clusia W.H. Evans, 1952  
+&ensp;&ensp;SPEC Bungalotis borax W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Bungalotis lactos W.H. Evans, 1952](http://doi.org/10.5281/zenodo.4532815)  
