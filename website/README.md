@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 160  
+Number of described and valid species: 162  
 Number of described and valid subspecies: 68
 
 Entheini valid species: 62  
-Phocidini valid species: 98
+Phocidini valid species: 100
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -273,3 +273,6 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Dyscophellus ramon W.H. Evans, 1952](http://doi.org/10.5281/zenodo.4532815)  
 &ensp;&ensp;SPEC Dyscophellus ramusis (C. Stoll, 1781)  
 &ensp;&ensp;SPEC Dyscophellus damias (C. Plötz, 1882)  
+#### &ensp;[GEN Phareas J.O. Westwood, 1852](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/phareas/)
+&ensp;&ensp;[SPEC Phareas burnsi Grishin, 2013](https://doi.org/10.18473/lepi.v67i3.a3)  
+&ensp;&ensp;SPEC Phareas coeleste J.O. Westwood, 1852  
