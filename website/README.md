@@ -74,7 +74,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus pemphigargyra (P. Mabille, 1888)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neleus (C. Linnaeus, 1758)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neda*** W.H. Evans, 1952  
-&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on COI barcodes differences  
+&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on some COI barcodes differences only  
 #### &ensp;[GEN Entheus J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/entheus/)
 &ensp;&ensp;SPEC Entheus eumelus (P. Cramer, 1777)  
 &ensp;&ensp;SPEC Entheus ninyas H.H. Druce, 1912  
@@ -254,9 +254,10 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Euriphellus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)
 &ensp;&ensp;[SPEC Euriphellus euribates (C. Stoll, 1782)](http://doi.org/10.5281/zenodo.4532815)  
 &ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates euribates (C. Stoll, 1782)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates polygius** (P.A. Latreille, [1824])  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates polygius*** (P.A. Latreille, [1824])  
 &ensp;&ensp;[SPEC Euriphellus phraxanor (W.C. Hewitson, 1876)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor lama** W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor lama*** W.H. Evans, 1952  
 &ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor phraxanor (W.C. Hewitson, 1876)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor mena** W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor mena*** W.H. Evans, 1952  
 &ensp;&ensp;[SPEC Euriphellus marian W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
+&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unclear morphological features  
