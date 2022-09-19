@@ -283,6 +283,6 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Cecropterus acanthopoda (O. Mielke, 1977)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/paracogia/)  
 &ensp;&ensp;[SPEC Cecropterus rinta (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cabares/)  
 &ensp;&ensp;[SPEC Cecropterus zarex (J. Hübner, 1818)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
-&ensp;&ensp;[SPEC Cecropterus longipennis C. Plötz, 1882(https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;[SPEC Cecropterus longipennis C. Plötz, 1882](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Cecropterus evenus (E. Ménétriés, 1855)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 ##### &ensp;SUBGEN Thorybes S.H. Scudder, 1872
