@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 176  
-Number of described and valid subspecies: 72
+Number of described and valid species: 187  
+Number of described and valid subspecies: 82
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 13
+Eudamini valid species: 24
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -280,11 +280,11 @@ We complement the phylogenetic information with the photographs available at the
 ### TRIBE Eudamini Mabille, 1877
 #### SUBTR Eudamina Mabille, 1877
 #### &ensp;[GEN Cecropterus Herrich-Schäffer, 1869](https://doi.org/10.1073/pnas.1821304116)
-##### &ensp;SUBGEN Cecropterus Herrich-Schäffer, 1869
+##### &ensp;[SUBGEN Cecropterus Herrich-Schäffer, 1869](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)
 &ensp;&ensp;[SPEC Cecropterus acanthopoda (O. Mielke, 1977)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/paracogia/)  
 &ensp;&ensp;[SPEC Cecropterus rinta (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cabares/)  
-&ensp;&ensp;[SPEC Cecropterus zarex (J. Hübner, 1818)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
-&ensp;&ensp;[SPEC Cecropterus longipennis C. Plötz, 1882](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;SPEC Cecropterus zarex (J. Hübner, 1818)  
+&ensp;&ensp;SPEC Cecropterus longipennis C. Plötz, 1882  
 &ensp;&ensp;[SPEC Cecropterus evenus (E. Ménétriés, 1855)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 ##### &ensp;[SUBGEN Thorybes S.H. Scudder, 1872](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/thorybes/)
 &ensp;&ensp;[SPEC Cecropterus lyciades (C. Geyer, 1832)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)  
@@ -300,3 +300,25 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Cecropterus mexicana (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus mexicana mexicana (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus mexicana ducia W.H. Evans, 1952  
+&ensp;&ensp;SPEC Cecropterus diversus (E.Bell, 1927)  
+&ensp;&ensp;SPEC Cecropterus pylades (S.H. Scudder, 1870)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus pylades indistinctus (G.T. Austin & J.F. Emmel, 1998)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus pylades albosuffusa (H. Freeman, 1943)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus pylades pylades (S.H. Scudder, 1870)  
+&ensp;&ensp;SPEC Cecropterus drusius (W.H. Edwards, [1884])  
+&ensp;&ensp;[SPEC Cecropterus cincta C. Plötz, 1882](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;[SPEC Cecropterus vectilucis (A.G. Butler, 1872)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;[SPEC Cecropterus pseudocellus (K.R. Coolidge & V.L. Clémence, [1910])](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;[SPEC Cecropterus palliolum (H.H. Druce, 1908)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
+&ensp;&ensp;[SPEC Cecropterus egregius (A.G. Butler, 1870)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus egregius egregius (A.G. Butler, 1870)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus egregius coxeyi (R.C. Williams, 1931)  
+&ensp;&ensp;[SPEC Cecropterus virescens (P. Mabille, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
+&ensp;&ensp;[SPEC Cecropterus dorantes (C. Stoll, 1790)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes calafia (R.C. Williams, 1926)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes dorantes (C. Stoll, 1790)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes cramptoni (W.P. Comstock, 1944)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes santiago (P.H. Lucas, 1857)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes galapagensis (F.X. Williams, 1911)  
+&ensp;&ensp;[SPEC Cecropterus obscurus (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
+##### &ensp;[SUBGEN Murgaria Watson, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)
