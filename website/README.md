@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 168  
-Number of described and valid subspecies: 67
+Number of described and valid species: 176  
+Number of described and valid subspecies: 72
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 5
+Eudamini valid species: 13
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -286,4 +286,17 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Cecropterus zarex (J. Hübner, 1818)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Cecropterus longipennis C. Plötz, 1882](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Cecropterus evenus (E. Ménétriés, 1855)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
-##### &ensp;SUBGEN Thorybes S.H. Scudder, 1872
+##### &ensp;[SUBGEN Thorybes S.H. Scudder, 1872](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/thorybes/)
+&ensp;&ensp;[SPEC Cecropterus lyciades (C. Geyer, 1832)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)  
+&ensp;&ensp;[SPEC Cecropterus casica (G.A.W. Herrich-Schäffer, 1869)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)  
+&ensp;&ensp;[SPEC Cecropterus tehuacana (M.W.K. Draudt, 1922)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)  
+&ensp;&ensp;SPEC Cecropterus confusis (E.L. Bell, 1923)  
+&ensp;&ensp;SPEC Cecropterus bathyllus (J.E. Smith, 1797)  
+&ensp;&ensp;[SPEC Cecropterus nevada (S.H. Scudder, 1872)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8794283/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus nevada aemilea (Skinner, 1893)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus nevada blanca (Scott, 1981)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus nevada nevada (S.H. Scudder, 1872)  
+&ensp;&ensp;[SPEC Cecropterus dobra (W.H. Evans, 1952)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8794283/)  
+&ensp;&ensp;SPEC Cecropterus mexicana (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus mexicana mexicana (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus mexicana ducia W.H. Evans, 1952  
