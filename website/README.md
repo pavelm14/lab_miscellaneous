@@ -8,11 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 162  
-Number of described and valid subspecies: 68
+Number of described and valid species: 168  
+Number of described and valid subspecies: 67
 
 Entheini valid species: 62  
-Phocidini valid species: 100
+Phocidini valid species: 101  
+Eudamini valid species: 5
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -117,8 +118,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia luna W.H. Evans, 1952  
 ### TRIBE Phocidini Tutt, 1906
 #### &ensp;[GEN Phocides J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/phocides)
+&ensp;&ensp;[SPEC Phocides lilea (T. Reakirt, [1867])](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8794283/)  
 &ensp;&ensp;SPEC Phocides polybius (J.C. Fabricius, 1793)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides polybius lilea (T. Reakirt, [1867])  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides polybius polybius (J.C. Fabricius, 1793)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides polybius phanias (H.C.C. Burmeister, 1880)  
 &ensp;&ensp;SPEC Phocides charon (C. Felder & R. Felder, 1859)  
