@@ -19,3 +19,8 @@ Second, we will infer historical biogeography parameters using the DEC model ([R
 
 You can use our modified script ([click here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/DECvsDEC_J.R)) based on: http://phylo.wikidot.com/biogeobears#toc29. You can also use our example phylogeny and distribution files ([here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/))
 
+## Counting dispersal events
+
+Biogeographical stochastic mapping is used to simulated histories along the input phylogeny and based on a biogeographical model. The simulated histories are useful for estimating probabilities of events, which has been argued to be a better way to count dispersal ([Dupin et al., 2016](http://dx.doi.org/10.1111/jbi.12898)).
+
+You can use our modified script ([click here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/Stochastic_Mapping_DEC.R)), which relies on the DEC analysis conducted in the previous step.
