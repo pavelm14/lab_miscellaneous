@@ -31,6 +31,6 @@ You can follow our modified script ([click here](https://github.com/pavelm14/lab
 
 Please, if you follow and are inspired by the plots describing dispersal counts, please, cite our publication:
 
-```
-Mesoamerica is a cradle and the Atlantic Forest is a museum of Neotropical butterfly diversity: insights from the evolution and biogeography of Brassolini (Lepidoptera: Nymphalidae). DOI: https://doi.org/10.1093/biolinnean/blab034
-```
+---
+Mesoamerica is a cradle and the Atlantic Forest is a museum of Neotropical butterfly diversity: insights from the evolution and biogeography of Brassolini (Lepidoptera: Nymphalidae). Biological Journal of the Linnean Society, Volume 133, Issue 3, July 2021, Pages 704–724, DOI: https://doi.org/10.1093/biolinnean/blab034
+---
