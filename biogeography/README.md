@@ -13,7 +13,7 @@ For people aiming to run the analyses using the Czech computer cluster [Metacent
 
 ## Running a biogeographical model in BioGeoBEARS
 
-First, install the R package BioGeoBEARS and its dependencies in R (> 3.3.2) following the description at: https://github.com/nmatzke/BioGeoBEARS
+First, install the R package BioGeoBEARS and its dependencies in R (> 3.3.2) following the description at: https://github.com/nmatzke/BioGeoBEARS. You will also need the R packages [ape](https://doi.org/10.1093/bioinformatics/btg412) (handling phylogenies) and [qgraph](https://doi.org/10.18637/jss.v048.i04) (plotting dispersal counts between areas) installed.
 
 Second, we will infer historical biogeography parameters using the DEC model ([Ree et al. 2015](https://doi.org/10.1111/j.0014-3820.2005.tb00940.x); [Ree & Smith 2018](https://doi.org/10.1080/10635150701883881)) in a maximum-likelihood framework. We will compare this model with another one introducing a new parameter so-called "J" (founder- or jump-dispersal; sensu [Matzke, 2014](http://dx.doi.org/10.1093/sysbio/syu056))
 
