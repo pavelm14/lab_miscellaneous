@@ -27,4 +27,10 @@ You can use our modified script ([click here](https://github.com/pavelm14/lab_mi
 
 ## Retrieve results and generate plots
 
-You can follow our script ([click here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/Stochastic_Mapping_RetrieveResults.R)) to retrieve the biogeographical stochastic mapping data and generate plots: 1) dispersal counts through time betweeen areas (better for visualization of dispersal curves and speculations/correlations with other environmental drivers), and 2) dispersal events between areas plotted as networks (better for visualization of biogeographical sources/sinks).
+You can follow our modified script ([click here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/Stochastic_Mapping_RetrieveResults.R)) from [Matos-Maraví et al., 2021](https://doi.org/10.1093/biolinnean/blab034), to retrieve the biogeographical stochastic mapping data and generate plots: 1) dispersal counts through time betweeen areas (better for visualization of dispersal curves and speculations/correlations with other environmental drivers), and 2) dispersal events between areas plotted as networks (better for visualization of biogeographical sources/sinks).
+
+Please, if you follow and are inspired by the plots describing dispersal counts, please, cite our publication:
+
+```
+Mesoamerica is a cradle and the Atlantic Forest is a museum of Neotropical butterfly diversity: insights from the evolution and biogeography of Brassolini (Lepidoptera: Nymphalidae). DOI: https://doi.org/10.1093/biolinnean/blab034
+```
