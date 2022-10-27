@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 205  
-Number of described and valid subspecies: 92
+Number of described and valid species: 230  
+Number of described and valid subspecies: 94
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 42
+Eudamini valid species: 67
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -352,3 +352,34 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Spicauda zagorus (C. Plötz, 1880)  
 &ensp;&ensp;SPEC Spicauda simplicius (C. Stoll, 1790)  
 &ensp;&ensp;SPEC Spicauda procne (C. Plötz, 1880)  
+#### &ensp;[GEN Urbanus J. Hübner, [1807]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)
+##### &ensp;SUBGEN Urbanoides N.V. Grishin, 2019
+&ensp;&ensp;SPEC Urbanus esmeraldus (A.G. Butler, 1877)  
+&ensp;&ensp;SPEC Urbanus esma W.H. Evans, 1952  
+&ensp;&ensp;SPEC Urbanus prodicus E.L. Bell, 1956  
+&ensp;&ensp;SPEC Urbanus elmina W.H. Evans, 1952  
+&ensp;&ensp;SPEC Urbanus evona W.H. Evans, 1952  
+&ensp;&ensp;SPEC Urbanus esta W.H. Evans, 1952  
+&ensp;&ensp;SPEC Urbanus viridis H.A. Freeman, 1970  
+##### &ensp;SUBGEN Urbanus J. Hübner, [1807]
+&ensp;&ensp;SPEC Urbanus velinus (C. Plötz, 1880)  
+&ensp;&ensp;SPEC Urbanus proteus (C. Linnaeus, 1758)  
+&ensp;&ensp;&ensp;&ensp;SUBS Urbanus proteus proteus (C. Linnaeus, 1758)  
+&ensp;&ensp;&ensp;&ensp;SUBS Urbanus proteus domingo (S.H. Scudder, 1872)  
+&ensp;&ensp;SPEC Urbanus magnus S.R. Steinhauser, 1981  
+&ensp;&ensp;SPEC Urbanus pronus W.H. Evans, 1952  
+&ensp;&ensp;SPEC Urbanus pronta W.H. Evans, 1952  
+&ensp;&ensp;SPEC Urbanus parvus G.T. Austin, 1998  
+&ensp;&ensp;SPEC Urbanus longicaudus G.T. Austin, 1998  
+&ensp;&ensp;SPEC Urbanus villus G.T. Austin, 1998  
+&ensp;&ensp;SPEC Urbanus huancavillcas (R.C. Williams, 1926)  
+&ensp;&ensp;SPEC Urbanus belli (K.J. Hayward, 1935)  
+&ensp;&ensp;[SPEC Urbanus alva+++ Evans, 1952](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/)  
+&ensp;&ensp;[SPEC Urbanus bernikerni J.M. Burns, 2014](https://doi.org/10.1186/1471-2148-14-153)  
+&ensp;&ensp;[SPEC Urbanus ehakernae J.M. Burns, 2014](https://doi.org/10.1186/1471-2148-14-153)  
+&ensp;&ensp;[SPEC Urbanus segnestami J.M. Burns, 2014](https://doi.org/10.1186/1471-2148-14-153)  
+&ensp;&ensp;SPEC Urbanus viterboana (G.A. Ehrmann, 1907)  
+&ensp;&ensp;SPEC Urbanus dubius S.R. Steinhauser, 1981  
+&ensp;&ensp;[SPEC Urbanus megalurus (P. Mabille, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
+&ensp;&ensp;[SPEC Urbanus tucuti (R.C. Williams, 1927)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
+&ensp;&ensp;\+\+\+Considered by [Zhang et al. (2019)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/) as full species largely based on shotgun sequencing, but no data (phylogenetic tree) was shown in their publication. Otherwise, a subspecies of U. belli  
