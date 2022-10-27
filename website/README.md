@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 198  
+Number of described and valid species: 205  
 Number of described and valid subspecies: 92
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 35
+Eudamini valid species: 42
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -344,3 +344,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus carmelita carmelita (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus carmelita barra*** W.H. Evans, 1952  
 &ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unclear morphological features, with no COI data  
+#### &ensp;[GEN Spicauda N.V. Grishin, 2019](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)
+&ensp;&ensp;SPEC Spicauda teleus (J. Hübner, 1821)  
+&ensp;&ensp;SPEC Spicauda tanna (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Spicauda ambiguus (R. de Jong, 1983)  
+&ensp;&ensp;SPEC Spicauda cindra (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Spicauda zagorus (C. Plötz, 1880)  
+&ensp;&ensp;SPEC Spicauda simplicius (C. Stoll, 1790)  
+&ensp;&ensp;SPEC Spicauda procne (C. Plötz, 1880)  
