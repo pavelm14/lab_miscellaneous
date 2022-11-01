@@ -2,16 +2,17 @@
 
 This is a tutorial to estimate ancestral distributional areas and macroevolutionary dispersal through time between areas.
 
-We use model-based inferences using the R package BioGeoBEARS ([Matzke, 2013](https://doi.org/10.21425/F5FBG19694)). For more information about the functionalities, please visit the program's wiki: http://phylo.wikidot.com/biogeobears
+We use model-based inferences using the R package BioGeoBEARS ([Matzke, 2013](https://doi.org/10.21425/F5FBG19694)). For more information about the functionalities, please visit the program's wiki: http://phylo.wikidot.com/biogeobears. We will also infer biogeographical parameters acknowledging speciation and extinction events in a state speciation and extinction context (LEMAD, [Herrera-Alsina et al, 2022](https://doi.org/10.1111/jbi.14489)). For more information about the functionalities, visit the [LEMAD tutorial](https://htmlpreview.github.io/?https://github.com/leonelhalsina/lemad/blob/main/vignettes/Using_lemad.html).
 
 For people aiming to run the analyses using the Czech computer cluster [Metacentrum](https://metavo.metacentrum.cz/en/index.html), you can follow our tutorial ([click here](https://github.com/pavelm14/lab_miscellaneous/tree/main/Rpackages)) describing the process of installing R packages and running R scripts there.
 
 ## Input files
 
 - A time-calibrated molecular phylogeny in Newick format
-- A distributional matrix containing the extant areas occupied by each species in the study phylogeny
+- A distributional matrix containing the extant areas occupied by each species in the study phylogeny, as presence (1) absence (0) (BioGeoBEARS, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.phy))
+- A distributional matrix containing the extant areas occupied by each species as characters and comma-delimited (LEMAD, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.csv))
 
-## Running a biogeographical model in BioGeoBEARS
+# Running a biogeographical model in BioGeoBEARS
 
 First, install the R package BioGeoBEARS and its dependencies in R (> 3.3.2) following the description at: https://github.com/nmatzke/BioGeoBEARS. You will also need the R packages [ape](https://doi.org/10.1093/bioinformatics/btg412) (handling phylogenies) and [qgraph](https://doi.org/10.18637/jss.v048.i04) (plotting dispersal counts between areas) installed.
 
@@ -32,3 +33,11 @@ You can follow our modified script ([click here](https://github.com/pavelm14/lab
 Please, if you follow and are inspired by the plots describing dispersal counts, please, cite our publication:
 
 > Mesoamerica is a cradle and the Atlantic Forest is a museum of Neotropical butterfly diversity: insights from the evolution and biogeography of Brassolini (Lepidoptera: Nymphalidae). Biological Journal of the Linnean Society, Volume 133, Issue 3, July 2021, Pages 704–724, DOI: https://doi.org/10.1093/biolinnean/blab034
+
+# Running a biogeographical analysis in LEMAD
+
+First, install the R package LEMAD and its dependencies in R, including Rtools (> 4.2.1) following the description at: https://github.com/leonelhalsina/lemad. You will also need the R package [DDD](https://doi.org/10.1098%2Frspb.2011.1439) (diversification-rate analyses) installed.
+
+Second, we will infer historical biogeography parameters using the DEC model and a model with parameters that resemble DIVA ([Ronquist 1997](https://doi.org/10.1093/sysbio/46.1.195); [Ree & Smith 2018](https://doi.org/10.1080/10635150701883881)) in a maximum-likelihood framework, and compare them.
+
+You can use our modified script ([click here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/LEMAD_DECvsDIVA.R)) based on the [LEMAD tutorial](https://htmlpreview.github.io/?https://github.com/leonelhalsina/lemad/blob/main/vignettes/Using_lemad.html). You can also use our example phylogeny and distribution files ([here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/))
