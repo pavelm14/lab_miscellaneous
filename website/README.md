@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 230  
-Number of described and valid subspecies: 94
+Number of described and valid species: 241  
+Number of described and valid subspecies: 98
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 67
+Eudamini valid species: 78
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -383,3 +383,21 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Urbanus megalurus (P. Mabille, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
 &ensp;&ensp;[SPEC Urbanus tucuti (R.C. Williams, 1927)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
 &ensp;&ensp;\+\+\+Considered by [Zhang et al. (2019)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/) as full species largely based on shotgun sequencing, but no data (phylogenetic tree) was shown in their publication. Otherwise, a subspecies of U. belli  
+#### &ensp;[GEN Telegonus J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)
+##### &ensp;SUBGEN Telegonus J. Hübner, [1819]
+&ensp;&ensp;SPEC Telegonus brevicauda (C. Plötz, 1886)  
+&ensp;&ensp;[SPEC Telegonus chalco (J. Hübner, 1823)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
+&ensp;&ensp;SPEC Telegonus azul (T. Reakirt, [1867])  
+&ensp;&ensp;[SPEC Telegonus catemacoensis (H. Freeman, 1967)](https://doi.org/10.1073/pnas.1821304116)  
+&ensp;&ensp;SPEC Telegonus fulgerator (J.E.I. Walch, 1775)  
+&ensp;&ensp;SPEC Telegonus fulgor K.J. Hayward, 1939  
+&ensp;&ensp;SPEC Telegonus naxos (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Telegonus xagua (P.H. Lucas, 1857)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus xagua xagua (P.H. Lucas, 1857)  
+&ensp;&ensp;&ensp;&ensp;[SUBS Telegonus xagua harveyi (Clench, Steinhauser and J. Miller, 2017)](https://www.biodiversitylibrary.org/page/55955196)  
+&ensp;&ensp;SPEC Telegonus christyi E.M.B. Sharpe, 1898  
+&ensp;&ensp;SPEC Telegonus talus (P. Cramer, 1777)  
+&ensp;&ensp;SPEC Telegonus apastus (P. Cramer, 1777)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus apastus apastus (P. Cramer, 1777)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus apastus pusa (W.H. Evans, 1952)  
+##### &ensp;SUBGEN Rhabdoides S.H. Scudder, 1889
