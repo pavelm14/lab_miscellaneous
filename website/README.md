@@ -387,7 +387,7 @@ We complement the phylogenetic information with the photographs available at the
 ##### &ensp;SUBGEN Telegonus J. Hübner, [1819]
 &ensp;&ensp;SPEC Telegonus brevicauda (C. Plötz, 1886)  
 &ensp;&ensp;[SPEC Telegonus chalco (J. Hübner, 1823)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
-&ensp;&ensp;SPEC Telegonus azul (T. Reakirt, [1867])  
+&ensp;&ensp;[SPEC Telegonus azul (T. Reakirt, [1867])](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;[SPEC Telegonus catemacoensis (H. Freeman, 1967)](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;SPEC Telegonus fulgerator (J.E.I. Walch, 1775)  
 &ensp;&ensp;SPEC Telegonus fulgor K.J. Hayward, 1939  
