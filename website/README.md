@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 261  
-Number of described and valid subspecies: 119
+Number of described and valid species: 262  
+Number of described and valid subspecies: 118
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 98
+Eudamini valid species: 99
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -434,11 +434,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Telegonus cassius (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Telegonus galesus P. Mabille, 1888  
 &ensp;&ensp;SPEC Telegonus anaphus (P. Cramer, 1777)  
-&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus annetta (W.H. Evans, 1952)  
-&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus anaphus (P. Cramer, 1777)  
-&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus anoma (W.H. Evans, 1952)  
-&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus aniza (W.H. Evans, 1952)  
-&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus anausis F.D. Godman & O. Salvin, 1896  
+&ensp;&ensp;[SPEC Telegonus anausis F.D. Godman & O. Salvin, 1896](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8794283/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anausis annetta (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anausis anoma (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anausis aniza (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anausis anausis F.D. Godman & O. Salvin, 1896  
 &ensp;&ensp;[SPEC Telegonus hyster (H.G. Dyar, 1916)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)  
 &ensp;&ensp;[SPEC Telegonus cellus (J.B.A.D. Boisduval & J.E. Le Conte, [1837])](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Telegonus siermadror (J.M. Burns, 1984)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
