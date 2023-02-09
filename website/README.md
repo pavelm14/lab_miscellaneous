@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 271  
-Number of described and valid subspecies: 120
+Number of described and valid species: 310  
+Number of described and valid subspecies: 155
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 108
+Eudamini valid species: 147
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -458,3 +458,82 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Spathilepia A.G. Butler, 1870](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/spathilepia/)
 &ensp;&ensp;SPEC Spathilepia clonius (P. Cramer, 1775)  
 #### &ensp;[GEN Astraptes J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/spathilepia/)
+&ensp;&ensp;SPEC Astraptes erycina (C. Plötz, 1881)  
+&ensp;&ensp;SPEC Astraptes mabillei S.R. Steinhauser, 1989  
+&ensp;&ensp;SPEC Astraptes halesius (W.C. Hewitson, 1877)  
+&ensp;&ensp;SPEC Astraptes aulus (C. Plötz, 1881)  
+&ensp;&ensp;SPEC Astraptes enotrus (C. Stoll, 1781)  
+&ensp;&ensp;SPEC Astraptes janeira (W. Schaus, 1902)  
+#### &ensp;[GEN Narcosius S.R. Steinhauser, 1986](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/narcosius/)
+&ensp;&ensp;SPEC Narcosius colossus (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus colossus (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus granadensis (H.B. Möschler, 1879)  
+&ensp;&ensp;SPEC Narcosius dosula (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Narcosius hercules (E.L. Bell, 1956)  
+&ensp;&ensp;SPEC Narcosius steinhauseri G.T. Austin, 1996  
+&ensp;&ensp;SPEC Narcosius narcosius (C. Stoll, 1790)  
+&ensp;&ensp;SPEC Narcosius aulina (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Narcosius parisi (R.C. Williams, 1927)  
+&ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi helen (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi parisi (R.C. Williams, 1927)  
+&ensp;&ensp;SPEC Narcosius odysseus G.T. Austin, 1996  
+&ensp;&ensp;SPEC Narcosius mura (R.C. Williams, 1927)  
+&ensp;&ensp;SPEC Narcosius pseudomura G.T. Austin, 1996  
+&ensp;&ensp;SPEC Narcosius nazaraeus S.R. Steinhauser, 1986  
+&ensp;&ensp;SPEC Narcosius samson (W.H. Evans, 1952)  
+#### &ensp;[GEN Proteides J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/proteides/)
+&ensp;&ensp;SPEC Proteides mercurius (J.C. Fabricius, 1787)  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius mercurius (J.C. Fabricius, 1787)  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius sanantonio (P.H. Lucas, 1857)  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius sanchesi E.L. Bell & W.P. Comstock, 1948  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius jamaicensis H. Skinner, 1920  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius pedro (H. Dewitz, 1877)  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius vincenti E.L. Bell & W.P. Comstock, 1948  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius angasi F.D. Godman & O. Salvin, 1884  
+&ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius grenadensis P. Enrico & R. Pinchon, 1969  
+&ensp;&ensp;SPEC Proteides maysi (P.H. Lucas, 1857)  
+#### &ensp;[GEN Epargyreus J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/epargyreus/)
+&ensp;&ensp;SPEC Epargyreus zestos (C. Geyer, 1832)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus zestos zestos (C. Geyer, 1832)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus zestos inaguarum H.K. Clench & K.A. Bjorndal, 1980  
+&ensp;&ensp;SPEC Epargyreus clarus (P. Cramer, 1775)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clarus californicus C.D. MacNeill, 1975  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clarus clarus (P. Cramer, 1775)  
+&ensp;&ensp;[SPEC Epargyreus huachuca B.W. Dixon, 1955](https://pubmed.ncbi.nlm.nih.gov/35098145)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus huachuca huachuca B.W. Dixon, 1955  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus huachuca profugus G.T. Austin, 1998  
+&ensp;&ensp;SPEC Epargyreus antaeus (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Epargyreus spanna W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus socus (J. Hübner, 1825)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus orizaba S.H. Scudder, 1872  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus dicta W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus chota W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus sinus W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus socus (J. Hübner, [1825])  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus pseudexadeus J.O. Westwood, 1852  
+&ensp;&ensp;SPEC Epargyreus windi H.A. Freeman, 1969  
+&ensp;&ensp;SPEC Epargyreus exadeus (P. Cramer, 1779)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus exadeus cruza*** W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus exadeus exadeus (P. Cramer, 1779)  
+&ensp;&ensp;SPEC Epargyreus nutra W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus aspina W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus spina W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus spina spina W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus spina verruga W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus spinta W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus spinosa W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus clavicornis (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clavicornis gaumeri F.D. Godman & O. Salvin, 1893  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clavicornis tenda W.H. Evans, 1955  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clavicornis clavicornis (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Epargyreus brodkorbi H.A. Freeman, 1969  
+&ensp;&ensp;SPEC Epargyreus deleoni H.A. Freeman, 1977  
+&ensp;&ensp;SPEC Epargyreus tmolis (H.C.C. Burmeister, 1875)  
+&ensp;&ensp;SPEC Epargyreus barisses (W.C. Hewitson, 1874)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus barisses barisses (W.C. Hewitson, 1874)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus barisses argentina P. Mabille, 1903  
+&ensp;&ensp;SPEC Epargyreus enispe (W.C. Hewitson, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe enispe (W.C. Hewitson, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe elta W.H. Evans, 1952  
+&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unspecific wing pattern features, with no genetic data  
+#### &ensp;GEN Chioides A.W. Lindsey, 1921
