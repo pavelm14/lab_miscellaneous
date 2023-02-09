@@ -401,3 +401,45 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus apastus apastus (P. Cramer, 1777)  
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus apastus pusa (W.H. Evans, 1952)  
 ##### &ensp;SUBGEN Rhabdoides S.H. Scudder, 1889
+&ensp;&ensp;SPEC Telegonus elorus (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Telegonus alardus (C. Stoll, 1790)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus alardus latia (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus alardus aquila (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus alardus alardus (C. Stoll, 1790)  
+&ensp;&ensp;SPEC Telegonus habana (P.H. Lucas, 1857)  
+&ensp;&ensp;SPEC Telegonus heriul P. Mabille & E. Boullet, 1912  
+&ensp;&ensp;SPEC Telegonus alector (C. Felder & R. Felder, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus alector hopfferi (C. Plötz, 1881)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus alector alector (C. Felder & R. Felder, 1867)  
+&ensp;&ensp;SPEC Telegonus cretatus K.J. Hayward, 1939  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus cretatus cretatus K.J. Hayward, 1939  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus cretatus adoba (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Telegonus creteus (P. Cramer, 1780)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus creteus crana (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus creteus crilla (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus creteus cyprus (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus creteus creteus (P. Cramer, 1780)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus creteus siges P. Mabille, 1903  
+&ensp;&ensp;SPEC Telegonus bifascia (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Telegonus latimargo (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Telegonus tinda (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Telegonus chiriquensis O. Staudinger, 1876  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus chiriquensis chiriquensis (O. Staudinger, 1876)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus chiriquensis erana (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus chiriquensis meretrix (W.C. Hewitson, 1876)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus chiriquensis oenander (W.C. Hewitson, 1876)  
+&ensp;&ensp;SPEC Telegonus weymeri (C. Plötz, 1882)  
+&ensp;&ensp;SPEC Telegonus jaira (A.G. Butler, 1870)  
+&ensp;&ensp;SPEC Telegonus cassander (J.C. Fabricius, 1793)  
+&ensp;&ensp;SPEC Telegonus cassius (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Telegonus galesus P. Mabille, 1888  
+&ensp;&ensp;SPEC Telegonus anaphus (P. Cramer, 1777)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus annetta (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus anaphus (P. Cramer, 1777)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus anoma (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus aniza (W.H. Evans, 1952)  
+&ensp;&ensp;&ensp;&ensp;SUBS Telegonus anaphus anausis F.D. Godman & O. Salvin, 1896  
+&ensp;&ensp;[SPEC Telegonus hyster (H.G. Dyar, 1916)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)  
+&ensp;&ensp;[SPEC Telegonus cellus (J.B.A.D. Boisduval & J.E. Le Conte, [1837])](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;[SPEC Telegonus siermadror (J.M. Burns, 1984)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+#### &ensp;GEN Autochton J. Hübner, 1823
