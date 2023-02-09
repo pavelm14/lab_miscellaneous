@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 262  
-Number of described and valid subspecies: 118
+Number of described and valid species: 271  
+Number of described and valid subspecies: 120
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 99
+Eudamini valid species: 108
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -442,4 +442,19 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Telegonus hyster (H.G. Dyar, 1916)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)  
 &ensp;&ensp;[SPEC Telegonus cellus (J.B.A.D. Boisduval & J.E. Le Conte, [1837])](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Telegonus siermadror (J.M. Burns, 1984)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
-#### &ensp;GEN Autochton J. Hübner, 1823
+#### &ensp;[GEN Autochton J. Hübner, 1823](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)
+##### &ensp;SUBGEN Autochton J. Hübner, 1823
+&ensp;&ensp;SPEC Autochton sulfureolus (P. Mabille, 1883)  
+&ensp;&ensp;SPEC Autochton reflexus (P. Mabille & E. Boullet, 1912)  
+&ensp;&ensp;SPEC Autochton neis (C. Geyer, 1832)  
+&ensp;&ensp;SPEC Autochton integrifascia (P. Mabille, 1891)  
+&ensp;&ensp;SPEC Autochton itylus J. Hübner, 1823  
+&ensp;&ensp;SPEC Autochton bipunctatus (J.F. Gmelin, [1790])  
+&ensp;&ensp;[SPEC Autochton potrillo (P.H. Lucas, 1857)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cabares/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Autochton potrillo potrillo (P.H. Lucas, 1857)  
+&ensp;&ensp;&ensp;&ensp;SUBS Autochton potrillo reducta (P. Mabille & E. Boullet, 1919)  
+##### &ensp;[SUBGEN Calliades P. Mabille & E. Boullet, 1912](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/calliades/)
+&ensp;&ensp;SPEC Autochton oryx (C. Felder & R. Felder, 1862)  
+#### &ensp;[GEN Spathilepia A.G. Butler, 1870](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/spathilepia/)
+&ensp;&ensp;SPEC Spathilepia clonius (P. Cramer, 1775)  
+#### &ensp;[GEN Astraptes J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/spathilepia/)
