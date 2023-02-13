@@ -345,6 +345,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unclear morphological features, with no COI data  
 #### &ensp;[GEN Spicauda N.V. Grishin, 2019](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)
 &ensp;&ensp;SPEC Spicauda teleus (J. Hübner, 1821)  
+&ensp;&ensp;[SPEC Spicauda atelis N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
+&ensp;&ensp;[SPEC Spicauda zalanthus (Plötz, 1880)](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;SPEC Spicauda tanna (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Spicauda ambiguus (R. de Jong, 1983)  
 &ensp;&ensp;SPEC Spicauda cindra (W.H. Evans, 1952)  
