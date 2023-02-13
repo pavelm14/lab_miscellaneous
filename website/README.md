@@ -382,7 +382,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Urbanus dubius S.R. Steinhauser, 1981  
 &ensp;&ensp;[SPEC Urbanus megalurus (P. Mabille, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
 &ensp;&ensp;[SPEC Urbanus tucuti (R.C. Williams, 1927)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
-&ensp;&ensp;\+\+\+Considered by [Zhang et al. (2019)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/) as full species largely based on shotgun sequencing, but no data (phylogenetic tree) was shown in their publication. Otherwise, a subspecies of U. belli. In addition, [Zhang et al. 2023](https://journals.flvc.org/mundi/article/view/132880/136947) synonymized Urbanus ehakernae J.M. Burns, 2014 with Urbanus alva.  
+&ensp;&ensp;\+\+\+Considered by [Zhang et al. (2019)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/) as full species largely based on shotgun sequencing, but no data (phylogenetic tree) was shown in their publication. Otherwise, a subspecies of U. belli. In addition, [Zhang et al. (2023)](https://journals.flvc.org/mundi/article/view/132880/136947) synonymized Urbanus ehakernae J.M. Burns, 2014 with Urbanus alva.  
 #### &ensp;[GEN Telegonus J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)
 ##### &ensp;SUBGEN Telegonus J. Hübner, [1819]
 &ensp;&ensp;SPEC Telegonus brevicauda (C. Plötz, 1886)  
