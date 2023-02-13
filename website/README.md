@@ -614,3 +614,21 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Lobotractus uvydixa (H.G. Dyar, 1914)  
 &ensp;&ensp;SPEC Lobotractus cyda (F.D. Godman, 1901)  
 #### &ensp;[GEN Codatractus A.W. Lindsey, 1921](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)
+##### &ensp;SUBGEN Codatractus A.W. Lindsey, 1921
+&ensp;&ensp;SPEC Codatractus cyledis (H.G. Dyar, 1912)  
+&ensp;&ensp;SPEC Codatractus bryaxis (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Codatractus imalena (A.G. Butler, 1872)  
+&ensp;&ensp;SPEC Codatractus arizonensis (H. Skinner, 1905)  
+&ensp;&ensp;SPEC Codatractus sallyae A.D. Warren, 1995  
+&ensp;&ensp;SPEC Codatractus melon (F.D. Godman & O. Salvin, 1893)  
+##### &ensp;SUBGEN Caudatractus N.V. Grishin, 2019
+&ensp;&ensp;SPEC Codatractus carlos W.H. Evans, 1952  
+&ensp;&ensp;SPEC Codatractus rowena W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Codatractus rowena arguta W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Codatractus rowena rowena W.H. Evans, 1952  
+&ensp;&ensp;SPEC Codatractus alcaeus (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Codatractus apulia W.H. Evans, 1952  
+&ensp;&ensp;SPEC Codatractus yucatanus H.A. Freeman, 1977  
+&ensp;&ensp;SPEC Codatractus aminias (W.C. Hewitson, 1867)  
+#### &ensp;[GEN Zestusa A.W. Lindsey, 1925](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/zestusa/)
+
