@@ -390,8 +390,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Telegonus brevicauda (C. Plötz, 1886)  
 &ensp;&ensp;[SPEC Telegonus chalco (J. Hübner, 1823)](https://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 &ensp;&ensp;[SPEC Telegonus azul (T. Reakirt, [1867])](https://doi.org/10.1073/pnas.1821304116)  
+&ensp;&ensp;[SPEC Telegonus misitra (C. Plötz, 1881)](https://journals.flvc.org/mundi/article/view/132880/136947)  
+&ensp;&ensp;[SPEC Telegonus tsongae N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;[SPEC Telegonus catemacoensis (H. Freeman, 1967)](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;SPEC Telegonus fulgerator (J.E.I. Walch, 1775)  
+&ensp;&ensp;[SPEC Telegonus fulminator (J. Sepp, [1841])](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;SPEC Telegonus fulgor K.J. Hayward, 1939  
 &ensp;&ensp;SPEC Telegonus naxos (W.C. Hewitson, 1867)  
 &ensp;&ensp;SPEC Telegonus xagua (P.H. Lucas, 1857)  
@@ -453,8 +456,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Autochton itylus J. Hübner, 1823  
 &ensp;&ensp;SPEC Autochton bipunctatus (J.F. Gmelin, [1790])  
 &ensp;&ensp;[SPEC Autochton potrillo (P.H. Lucas, 1857)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cabares/)  
-&ensp;&ensp;&ensp;&ensp;SUBS Autochton potrillo potrillo (P.H. Lucas, 1857)  
-&ensp;&ensp;&ensp;&ensp;SUBS Autochton potrillo reducta (P. Mabille & E. Boullet, 1919)  
+&ensp;&ensp;[SPEC Autochton caballo N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
+&ensp;&ensp;[SPEC Autochton reducta (P. Mabille & E. Boullet, 1919)](https://journals.flvc.org/mundi/article/view/132880/136947)  
 ##### &ensp;[SUBGEN Calliades P. Mabille & E. Boullet, 1912](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/calliades/)
 &ensp;&ensp;SPEC Autochton oryx (C. Felder & R. Felder, 1862)  
 #### &ensp;[GEN Spathilepia A.G. Butler, 1870](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/spathilepia/)
