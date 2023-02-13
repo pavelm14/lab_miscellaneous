@@ -369,6 +369,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Urbanus proteus domingo (S.H. Scudder, 1872)  
 &ensp;&ensp;SPEC Urbanus magnus S.R. Steinhauser, 1981  
 &ensp;&ensp;SPEC Urbanus pronus W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Urbanus rickardi N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;SPEC Urbanus pronta W.H. Evans, 1952  
 &ensp;&ensp;SPEC Urbanus parvus G.T. Austin, 1998  
 &ensp;&ensp;SPEC Urbanus longicaudus G.T. Austin, 1998  
@@ -377,6 +378,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Urbanus belli (K.J. Hayward, 1935)  
 &ensp;&ensp;[SPEC Urbanus alva+++ Evans, 1952](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/)  
 &ensp;&ensp;[SPEC Urbanus bernikerni J.M. Burns, 2014](https://doi.org/10.1186/1471-2148-14-153)  
+&ensp;&ensp;[SPEC Urbanus oplerorum N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;[SPEC Urbanus segnestami J.M. Burns, 2014](https://doi.org/10.1186/1471-2148-14-153)  
 &ensp;&ensp;SPEC Urbanus viterboana (G.A. Ehrmann, 1907)  
 &ensp;&ensp;SPEC Urbanus dubius S.R. Steinhauser, 1981  
