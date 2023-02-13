@@ -8,12 +8,13 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 493  
-Number of described and valid subspecies: 187
+Number of described and valid species: 532  
+Number of described and valid subspecies: 202
 
 Entheini valid species: 64  
 Phocidini valid species: 101  
-Eudamini valid species: 328
+Eudamini valid species: 328  
+Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -773,3 +774,64 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus savigny punctus E.L. Bell & W.P. Comstock, 1948  
 ### TRIBE Oileidini N.V. Grishin, 2019
 #### SUBTR Oileidina N.V. Grishin, 2019
+#### &ensp;[GEN Oileides J. Hübner, [1825]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/oileides/)
+&ensp;&ensp;SPEC Oileides fenestratus (J.F. Gmelin, [1790])  
+&ensp;&ensp;SPEC Oileides guyanensis (P. Mabille & E. Boullet, 1912)  
+&ensp;&ensp;SPEC Oileides vulpinus J. Hübner, [1825]  
+&ensp;&ensp;SPEC Oileides amazonensis (E.L. Bell, 1947)  
+&ensp;&ensp;&ensp;&ensp;SUBS Oileides amazonensis amazonensis (E.L. Bell, 1947)  
+&ensp;&ensp;&ensp;&ensp;SUBS Oileides amazonensis renta (W.H. Evans, 1952)  
+#### SUBTR Typhedanina N.V. Grishin, 2019
+#### &ensp;[GEN Typhedanus A.G. Butler, 1870](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)
+&ensp;&ensp;SPEC Typhedanus umber (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Typhedanus ampyx (F.D. Godman & O. Salvin, 1893)  
+&ensp;&ensp;SPEC Typhedanus salas H.A. Freeman, 1977  
+&ensp;&ensp;[SPEC Typhedanus cajeta (G.A.W. Herrich-Schäffer, 1869)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cogia/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Typhedanus cajeta cajeta (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Typhedanus cajeta eluina (F.D. Godman & O. Salvin, 1894)  
+&ensp;&ensp;[SPEC Typhedanus aventinus (F.D. Godman & O. Salvin, 1894)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cogia/)  
+&ensp;&ensp;[SPEC Typhedanus mala (W.H. Evans, 1953)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cogia/)  
+&ensp;&ensp;[SPEC Typhedanus buena (A.D. Warren et al., 2015)](https://doi.org/10.11646/zootaxa.3941.2.4)  
+#### &ensp;[GEN Oechydrus E.Y. Watson, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/oechydrus/)
+&ensp;&ensp;SPEC Oechydrus chersis (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Oechydrus chersis chersis (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Oechydrus chersis ochrilinea (W. Schaus, 1902)  
+&ensp;&ensp;&ensp;&ensp;SUBS Oechydrus chersis rufus W.H. Evans, 1953  
+&ensp;&ensp;SPEC Oechydrus evelinda (A.G. Butler, 1870)  
+#### &ensp;[GEN Cogia A.G. Butler, 1870](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cogia/)
+&ensp;&ensp;[SPEC Cogia crameri (P.B. McHenry, 1960)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia undulatus (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia galbula (C. Plötz, 1880)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia optica (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia goya (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia stylites (G.A.W. Herrich-Schäffer, 1869)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia cursinoi (O. Mielke, 1979)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia eliasi (O. Mielke, 1979)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;[SPEC Cogia aziris (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)  
+&ensp;&ensp;SPEC Cogia hassan A.G. Butler, 1870  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia hassan hassan A.G. Butler, 1870  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia hassan evansi E.L. Bell, 1937  
+&ensp;&ensp;SPEC Cogia abdul K.J. Hayward, 1947  
+&ensp;&ensp;SPEC Cogia troilus P. Mabille, 1898  
+&ensp;&ensp;SPEC Cogia punctilia C. Plötz, 1882  
+&ensp;&ensp;SPEC Cogia cerradicola (O. Mielke, 1967)  
+&ensp;&ensp;SPEC Cogia outis (H. Skinner, 1894)  
+&ensp;&ensp;SPEC Cogia hippalus (W.H. Edwards, 1882)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus peninsularis L.D. Miller & C.D. MacNeill, 1969  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus hippalus (W.H. Edwards, 1882)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus hiska W.H. Evans, 1953  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus hester W.H. Evans, 1953  
+&ensp;&ensp;SPEC Cogia azila W.H. Evans, 1953  
+&ensp;&ensp;SPEC Cogia caicus (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia caicus moschus (W.H. Edwards, 1882)  
+&ensp;&ensp;&ensp;&ensp;SUBS Cogia caicus caicus (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Cogia calchas (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Cogia grandis N.D. Riley, 1921  
+&ensp;&ensp;SPEC Cogia elaites (W.C. Hewitson, 1867)  
+#### &ensp;[GEN Nerula P. Mabille, 1888](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nerula/)
+&ensp;&ensp;SPEC Nerula fibrena (W.C. Hewitson, 1877)  
+&ensp;&ensp;SPEC Nerula tuba W.H. Evans, 1953  
+#### &ensp;[GEN Marela P. Mabille, 1903](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/marela/)
+&ensp;&ensp;SPEC Marela tamyroides (C. Felder & R. Felder, 1867)  
+&ensp;&ensp;SPEC Marela tamyris P. Mabille, 1903  
+&ensp;&ensp;SPEC Marela tamba W.H. Evans, 1953  
