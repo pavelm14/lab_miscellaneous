@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 310  
-Number of described and valid subspecies: 155
+Number of described and valid species: 362  
+Number of described and valid subspecies: 174
 
 Entheini valid species: 62  
 Phocidini valid species: 101  
-Eudamini valid species: 147
+Eudamini valid species: 199
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -536,4 +536,81 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe enispe (W.C. Hewitson, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe elta W.H. Evans, 1952  
 &ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unspecific wing pattern features, with no genetic data  
-#### &ensp;GEN Chioides A.W. Lindsey, 1921
+#### &ensp;[GEN Chioides A.W. Lindsey, 1921](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/chioides/)
+&ensp;&ensp;SPEC Chioides albofasciatus (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Chioides catillus (P. Cramer, 1779)  
+&ensp;&ensp;&ensp;&ensp;SUBS Chioides catillus albius W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Chioides catillus catillus (P. Cramer, 1779)  
+&ensp;&ensp;&ensp;&ensp;SUBS Chioides catillus jethira (A.G. Butler, 1870)  
+&ensp;&ensp;SPEC Chioides churchi E.L. Bell & W.P. Comstock, 1948  
+&ensp;&ensp;SPEC Chioides cinereus (P. Mabille & P. Vuillot, 1891)  
+&ensp;&ensp;SPEC Chioides concinnus (P. Mabille, 1877)  
+&ensp;&ensp;SPEC Chioides vintra W.H. Evans, 1952  
+&ensp;&ensp;SPEC Chioides iverna W.H. Evans, 1952  
+&ensp;&ensp;SPEC Chioides zilpa (A.G. Butler, 1872)  
+&ensp;&ensp;SPEC Chioides ixion (C. Plötz, 1880)  
+&ensp;&ensp;SPEC Chioides marmorosa (G.A.W. Herrich-Schäffer, 1865)  
+#### SUBTR Loboclina N.V. Grishin, 2019
+#### &ensp;[GEN Aguna R.C. Williams, 1927](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/aguna/)
+&ensp;&ensp;SPEC Aguna megaeles (P. Mabille, 1888)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna megaeles malia W.H. Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna megaeles megaeles (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Aguna metophis (P.A. Latreille, [1824])  
+&ensp;&ensp;SPEC Aguna camagura (R.C. Williams, 1926)  
+&ensp;&ensp;SPEC Aguna asander (W.C. Hewitson, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna asander asander (W.C. Hewitson, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna asander haitensis (P. Mabille & E. Boullet, 1912)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna asander jasper W.H. Evans, 1952  
+&ensp;&ensp;SPEC Aguna albistria (C. Plötz, 1880)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna albistria albistria (C. Plötz, 1880)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna albistria leucogramma (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Aguna claxon W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Aguna prasinus R.R. Siewert et al., 2015](https://doi.org/10.1016/j.rbe.2015.09.005)  
+&ensp;&ensp;SPEC Aguna clina W.H. Evans, 1952  
+&ensp;&ensp;SPEC Aguna latifascia G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna coelus (C. Stoll, 1781)  
+&ensp;&ensp;SPEC Aguna cirrus W.H. Evans, 1952  
+&ensp;&ensp;SPEC Aguna coeloides G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna nicolayi G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna venezuelae O. Mielke, 1971  
+&ensp;&ensp;SPEC Aguna latimacula G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna aurunce (W.C. Hewitson, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna aurunce aurunce (W.C. Hewitson, 1867)  
+&ensp;&ensp;&ensp;&ensp;SUBS Aguna aurunce hypozonius (C. Plötz, 1880)  
+&ensp;&ensp;SPEC Aguna glaphyrus (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Aguna penicillata G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna spicata G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna longicauda G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna ganna (H.B. Möschler, 1879)  
+&ensp;&ensp;SPEC Aguna panama G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna spatulata G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna similis G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna mesodentata G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna squamalba G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;SPEC Aguna parva G.T. Austin & O. Mielke, 1998  
+#### &ensp;[GEN Zeutus N.V. Grishin, 2019](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/calliades/)
+&ensp;&ensp;SPEC Zeutus zeutus (H.B. Möschler, 1879)  
+#### &ensp;[GEN Lobocla Moore, 1884](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/lobocla/)
+&ensp;&ensp;SPEC Lobocla liliana (Plötz, 1882)  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla liliana ignatius (Plötz, 1882)  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla liliana liliana (Atkinson, 1871)  
+&ensp;&ensp;SPEC Lobocla aborica (Tytler, 1915)  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla aborica aborica (Tytler, 1915)  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla aborica zesta Evans, 1952  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla aborica tonka Evans, 1952  
+&ensp;&ensp;SPEC Lobocla quadripunctata Fan & Wang, 2004  
+&ensp;&ensp;SPEC Lobocla disparalis Murayama, 1995  
+&ensp;&ensp;SPEC Lobocla bifasciatus (Bremer & Grey, 1853)  
+&ensp;&ensp;SPEC Lobocla contractus (Leech, 1894)  
+&ensp;&ensp;SPEC Lobocla germanus (Oberthür, 1886)  
+&ensp;&ensp;SPEC Lobocla nepos (Oberthür, 1886)  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla nepos nepos (Oberthür, 1886)  
+&ensp;&ensp;&ensp;&ensp;SUBS Lobocla nepos phyllis (Hemming, 1933)  
+&ensp;&ensp;SPEC Lobocla proximus (Leech, 1891)  
+&ensp;&ensp;SPEC Lobocla simplex (Leech, 1891)  
+#### &ensp;[GEN Lobotractus N.V. Grishin, 2019](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)
+&ensp;&ensp;SPEC Lobotractus valeriana (C. Plötz, 1881)  
+&ensp;&ensp;[SPEC Lobotractus mysie (H.G. Dyar, 1904)](https://doi.org/10.5281/zenodo.5630311)  
+&ensp;&ensp;SPEC Lobotractus uvydixa (H.G. Dyar, 1914)  
+&ensp;&ensp;SPEC Lobotractus cyda (F.D. Godman, 1901)  
+#### &ensp;[GEN Codatractus A.W. Lindsey, 1921](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)
