@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 446  
-Number of described and valid subspecies: 180
+Number of described and valid species: 493  
+Number of described and valid subspecies: 187
 
 Entheini valid species: 64  
 Phocidini valid species: 101  
-Eudamini valid species: 281
+Eudamini valid species: 328
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -715,3 +715,61 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Ectomis perna (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Ectomis albovenae (E.L. Bell, 1932)  
 #### &ensp;[GEN Telemiades J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/telemiades/)
+&ensp;&ensp;SPEC Telemiades delalande*** (P.A. Latreille, [1824])  
+&ensp;&ensp;SPEC Telemiades litanicus*** (W.C. Hewitson, 1876)  
+&ensp;&ensp;SPEC Telemiades vansa W.H. Evans, 1953  
+&ensp;&ensp;SPEC Telemiades gallius (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Telemiades chrysorrhoea F.D. Godman & O. Salvin, 1893  
+&ensp;&ensp;SPEC Telemiades contra W.H. Evans, 1953  
+&ensp;&ensp;SPEC Telemiades centrites (W.C. Hewitson, 1870)  
+&ensp;&ensp;SPEC Telemiades vespasius*** (J.C. Fabricius, 1793)  
+&ensp;&ensp;SPEC Telemiades squanda W.H. Evans, 1953  
+&ensp;&ensp;SPEC Telemiades trenda W.H. Evans, 1953  
+&ensp;&ensp;SPEC Telemiades nicomedes (H.B. Möschler, 1879)  
+&ensp;&ensp;SPEC Telemiades meris (C. Plötz, 1886)  
+&ensp;&ensp;SPEC Telemiades brazus E.L. Bell, 1949  
+&ensp;&ensp;SPEC Telemiades choricus (W. Schaus, 1902)  
+&ensp;&ensp;SPEC Telemiades megallus P. Mabille, 1888  
+&ensp;&ensp;SPEC Telemiades sila W.H. Evans, 1953  
+&ensp;&ensp;SPEC Telemiades epicalus J. Hübner, [1819]  
+&ensp;&ensp;SPEC Telemiades penidas (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Telemiades avitus (C. Stoll, 1781)  
+&ensp;&ensp;SPEC Telemiades antiope (C. Plötz, 1882)  
+&ensp;&ensp;SPEC Telemiades fides E.L. Bell, 1949  
+&ensp;&ensp;[SPEC Telemiades pekahia (W.C. Hewitson, 1868)](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;SPEC Telemiades amphion (C. Geyer, 1832)  
+&ensp;&ensp;[SPEC Telemiades misitheus (P. Mabille, 1888)](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades marpesus (W.C. Hewitson, 1876)](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;SPEC Telemiades laogonus (W.C. Hewitson, 1876)  
+&ensp;&ensp;SPEC Telemiades corbulo (C. Stoll, 1781)  
+&ensp;&ensp;SPEC Telemiades oiclus (P. Mabille, 1889)  
+&ensp;&ensp;[SPEC Telemiades amazonica R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades insulsus (M.W.K. Draudt, 1922)](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades xantho K.J. Hayward, 1939](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades atlantiope R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades austini R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades belli R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades cryptus R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades dawkinsi R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades esmeraldas R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades lamasi R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades mielkei R.R. Siewert & M.M. Casagrande 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades moa R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades pallidus R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades pseudotrenda R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades quammeni R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades warreni R.R. Siewert et al., 2020](https://doi.org/10.11646/zootaxa.4721.1.1)  
+&ensp;&ensp;[SPEC Telemiades nicki R.R. Siewert et al., 2021](https://doi.org/10.5281/zenodo.4721604)  
+&ensp;&ensp;\*\*\*Considered by [Siewert et al. (2020)](https://doi.org/10.11646/zootaxa.4721.1.1) as belonging to a different genus  
+#### &ensp;[GEN Polygonus J. Hübner, [1825]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polygonus/)
+&ensp;&ensp;SPEC Polygonus leo (J.F. Gmelin, [1790])  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo arizonensis (H. Skinner, 1911)  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo pallida J.K.M. Röber, 1925  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo histrio J.K.M. Röber, 1925  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo leo (J.F. Gmelin, [1790])  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo hagar W.H. Evans, 1952  
+&ensp;&ensp;SPEC Polygonus savigny (P.A. Latreille, [1824])  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus savigny savigny (P.A. Latreille, [1824])  
+&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus savigny punctus E.L. Bell & W.P. Comstock, 1948  
+### TRIBE Oileidini N.V. Grishin, 2019
+#### SUBTR Oileidina N.V. Grishin, 2019
