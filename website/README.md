@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 362  
-Number of described and valid subspecies: 174
+Number of described and valid species: 376  
+Number of described and valid subspecies: 173
 
-Entheini valid species: 62  
+Entheini valid species: 64  
 Phocidini valid species: 101  
-Eudamini valid species: 199
+Eudamini valid species: 211
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -66,16 +66,14 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Phanus marshalli (W.F. Kirby, 1880)  
 #### &ensp;[GEN Hyalothyrus P. Mabille, 1878](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/hyalothyrus/)
 &ensp;&ensp;SPEC Hyalothyrus infernalis (H.B. Möschler, 1877)  
-&ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus infernalis infernalis (H.B. Möschler, 1877)  
-&ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus infernalis infa*** W.H. Evans, 1952  
+&ensp;&ensp;SPEC Hyalothyrus infa W.H. Evans, 1952  
 &ensp;&ensp;SPEC Hyalothyrus leucomelas (C. Geyer, 1832)  
 &ensp;&ensp;SPEC Hyalothyrus nitocris (C. Stoll, 1782)  
 &ensp;&ensp;SPEC Hyalothyrus mimicus P. Mabille & E. Boullet, 1919  
 &ensp;&ensp;SPEC Hyalothyrus neleus (C. Linnaeus, 1758)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus pemphigargyra (P. Mabille, 1888)  
 &ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neleus (C. Linnaeus, 1758)  
-&ensp;&ensp;&ensp;&ensp;SUBS Hyalothyrus neleus neda*** W.H. Evans, 1952  
-&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on some COI barcodes differences only  
+&ensp;&ensp;SPEC Hyalothyrus neda W.H. Evans, 1952  
 #### &ensp;[GEN Entheus J. Hübner, [1819]](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/entheus/)
 &ensp;&ensp;SPEC Entheus eumelus (P. Cramer, 1777)  
 &ensp;&ensp;SPEC Entheus ninyas H.H. Druce, 1912  
