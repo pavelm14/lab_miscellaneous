@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 418  
-Number of described and valid subspecies: 178
+Number of described and valid species: 446  
+Number of described and valid subspecies: 180
 
 Entheini valid species: 64  
 Phocidini valid species: 101  
-Eudamini valid species: 253
+Eudamini valid species: 281
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -681,4 +681,37 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Cephise procerus (C. Plötz, 1880)  
 &ensp;&ensp;SPEC Cephise guatemalaensis (H.A. Freeman, 1977)  
 #### SUBTR Telemiadina N.V. Grishin, 2019
-
+#### &ensp;[GEN Ectomis P. Mabille, 1878](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/ectomis/)
+##### &ensp;[SUBGEN Asina N.V. Grishin, 2019](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)
+&ensp;&ensp;SPEC Ectomis gyges (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Ectomis hirtius (A.G. Butler, 1870)  
+&ensp;&ensp;SPEC Ectomis roma (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Ectomis asine (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Ectomis mexicanus (H.A. Freeman, 1969)  
+##### &ensp;[SUBGEN Ectomis P. Mabille, 1878](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/chrysoplectrum/)
+&ensp;&ensp;[SPEC Ectomis octomaculata (J. Sepp, [1844])](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis maizae (V. Hellebuyck, 1998)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis ceculus (G.A.W. Herrich-Schäffer, 1869)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis caunus (G.A.W. Herrich-Schäffer, 1869)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis auginus (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis metallescens (P. Mabille, 1888)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis kanshul (J.A. Shuey, 1991)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis eudoxus (C. Stoll, 1781)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis minvanes (R.C. Williams, 1926)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polythrix/)  
+&ensp;&ensp;[SPEC Ectomis labriaris (A.G. Butler, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/heronia/)  
+&ensp;&ensp;[SPEC Ectomis cythna (W.C. Hewitson, 1878)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/ectomis/)  
+&ensp;&ensp;&ensp;&ensp;SUBS Ectomis cythna cythna (W.C. Hewitson, 1878)  
+&ensp;&ensp;&ensp;&ensp;SUBS Ectomis cythna ega W.H. Evans, 1953  
+&ensp;&ensp;[SPEC Ectomis speculum (G.T. Austin, 2008)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/speculum/)  
+&ensp;&ensp;[SPEC Ectomis teutas (W.C. Hewitson, 1876)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/hypocryptothrix/)  
+&ensp;&ensp;SPEC Ectomis pervivax (J. Hübner, [1819])  
+&ensp;&ensp;SPEC Ectomis bahiana (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Ectomis orphne (C. Plötz, 1881)  
+&ensp;&ensp;SPEC Ectomis otriades (W.C. Hewitson, 1867)  
+&ensp;&ensp;SPEC Ectomis epicincea (A.G. Butler & H. Druce, 1872)  
+&ensp;&ensp;SPEC Ectomis perniciosus (G.A.W. Herrich-Schäffer, 1969)  
+&ensp;&ensp;SPEC Ectomis cuminaensis (R.F. d'Almeida, 1976)  
+&ensp;&ensp;SPEC Ectomis orpheus (C. Plötz, 1881)  
+&ensp;&ensp;SPEC Ectomis perna (W.H. Evans, 1952)  
+&ensp;&ensp;SPEC Ectomis albovenae (E.L. Bell, 1932)  
+#### &ensp;[GEN Telemiades J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/telemiades/)
