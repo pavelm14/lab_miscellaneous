@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 376  
-Number of described and valid subspecies: 173
+Number of described and valid species: 418  
+Number of described and valid subspecies: 178
 
 Entheini valid species: 64  
 Phocidini valid species: 101  
-Eudamini valid species: 211
+Eudamini valid species: 253
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -629,4 +629,56 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Codatractus yucatanus H.A. Freeman, 1977  
 &ensp;&ensp;SPEC Codatractus aminias (W.C. Hewitson, 1867)  
 #### &ensp;[GEN Zestusa A.W. Lindsey, 1925](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/zestusa/)
+&ensp;&ensp;SPEC Zestusa dorus (W.H. Edwards, 1882)  
+&ensp;&ensp;SPEC Zestusa elwesi (F.D. Godman & O. Salvin, 1893)  
+&ensp;&ensp;SPEC Zestusa staudingeri (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Zestusa levona S.R. Steinhauser, 1972  
+#### &ensp;[GEN Ridens (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/ridens/)
+&ensp;&ensp;SPEC Ridens crison (F.D. Godman & O. Salvin, 1893)  
+&ensp;&ensp;&ensp;&ensp;SUBS Ridens crison crison (F.D. Godman & O. Salvin, 1893)  
+&ensp;&ensp;&ensp;&ensp;SUBS Ridens crison howarthi S.R. Steinhauser, 1974  
+&ensp;&ensp;&ensp;&ensp;SUBS Ridens crison cachinnans (F.D. Godman, 1901)  
+&ensp;&ensp;SPEC Ridens ridens (W.C. Hewitson, 1876)  
+&ensp;&ensp;SPEC Ridens fieldi S.R. Steinhauser, 1974  
+&ensp;&ensp;SPEC Ridens toddi S.R. Steinhauser, 1974  
+&ensp;&ensp;SPEC Ridens biolleyi (P. Mabille, 1900)  
+&ensp;&ensp;SPEC Ridens mercedes S.R. Steinhauser, 1983  
+&ensp;&ensp;SPEC Ridens panche (R.C. Williams, 1927)  
+&ensp;&ensp;SPEC Ridens telegonoides (P. Mabille & E. Boullet, 1912)  
+&ensp;&ensp;SPEC Ridens tristis (M.W.K. Draudt, [1922])  
+&ensp;&ensp;SPEC Ridens nora W.H. Evans, 1952  
+&ensp;&ensp;SPEC Ridens harpagus (C. Felder & R. Felder, 1867)  
+&ensp;&ensp;SPEC Ridens philistus (C.H. Hopffer, 1874)  
+&ensp;&ensp;&ensp;&ensp;SUBS Ridens philistus philistus (C.H. Hopffer, 1874)  
+&ensp;&ensp;&ensp;&ensp;SUBS Ridens philistus philia W.H. Evans, 1952  
+&ensp;&ensp;SPEC Ridens mephitis (W.C. Hewitson, 1876)  
+&ensp;&ensp;SPEC Ridens fulminans (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Ridens fulima W.H. Evans, 1952  
+&ensp;&ensp;SPEC Ridens pacasa (R.C. Williams, 1927)  
+&ensp;&ensp;SPEC Ridens bidens G.T. Austin, 1998  
+&ensp;&ensp;SPEC Ridens allyni H.A. Freeman, 1979  
+&ensp;&ensp;SPEC Ridens bridgmani (A.G. Weeks, 1902)  
+&ensp;&ensp;SPEC Ridens miltas (F.D. Godman & O. Salvin, 1893)  
+#### &ensp;[GEN Venada W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/venada/)
+&ensp;&ensp;SPEC Venada nevada J.M. Burns, 2005  
+&ensp;&ensp;SPEC Venada advena (P. Mabille, 1889)  
+&ensp;&ensp;SPEC Venada daneva J.M. Burns, 2005  
+&ensp;&ensp;[SPEC Venada lamella J.M. Burns, 2013](https://doi.org/10.4289/0013-8797.115.1.37)  
+&ensp;&ensp;SPEC Venada cacao J.M. Burns, 2005  
+&ensp;&ensp;SPEC Venada naranja J.M. Burns, 2005  
+#### SUBTR Cephisina N.V. Grishin, 2019
+#### &ensp;[GEN Cephise W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/cephise/)
+&ensp;&ensp;SPEC Cephise impunctus G.T. Austin & O. Mielke, 2000  
+&ensp;&ensp;SPEC Cephise cephise (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;SPEC Cephise nuspesez J.M. Burns, 1996  
+&ensp;&ensp;SPEC Cephise malesedis G.T. Austin & O. Mielke, 2000  
+&ensp;&ensp;SPEC Cephise maculatus G.T. Austin & O. Mielke, 2000  
+&ensp;&ensp;SPEC Cephise burnsi G.T. Austin & O. Mielke, 2000  
+&ensp;&ensp;SPEC Cephise mexicanus G.T. Austin & O. Mielke, 2000  
+&ensp;&ensp;SPEC Cephise glarus (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Cephise aelius (C. Plötz, 1880)  
+&ensp;&ensp;SPEC Cephise callias (P. Mabille, 1888)  
+&ensp;&ensp;SPEC Cephise procerus (C. Plötz, 1880)  
+&ensp;&ensp;SPEC Cephise guatemalaensis (H.A. Freeman, 1977)  
+#### SUBTR Telemiadina N.V. Grishin, 2019
 
