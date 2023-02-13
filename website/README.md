@@ -512,14 +512,13 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Epargyreus socus (J. Hübner, 1825)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus orizaba S.H. Scudder, 1872  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus dicta W.H. Evans, 1952  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus chota W.H. Evans, 1952  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus sinus W.H. Evans, 1952  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus socus (J. Hübner, [1825])  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus pseudexadeus J.O. Westwood, 1852  
 &ensp;&ensp;SPEC Epargyreus windi H.A. Freeman, 1969  
-&ensp;&ensp;SPEC Epargyreus exadeus (P. Cramer, 1779)  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus exadeus cruza*** W.H. Evans, 1952  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus exadeus exadeus (P. Cramer, 1779)  
+&ensp;&ensp;[SPEC Epargyreus fractigutta N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
+&ensp;&ensp;SPEC Epargyreus cruza W.H. Evans, 1952
+&ensp;&ensp;SPEC Epargyreus exadeus (P. Cramer, 1779)
 &ensp;&ensp;SPEC Epargyreus nutra W.H. Evans, 1952  
 &ensp;&ensp;SPEC Epargyreus aspina W.H. Evans, 1952  
 &ensp;&ensp;SPEC Epargyreus spina W.H. Evans, 1952  
@@ -527,10 +526,10 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus spina verruga W.H. Evans, 1952  
 &ensp;&ensp;SPEC Epargyreus spinta W.H. Evans, 1952  
 &ensp;&ensp;SPEC Epargyreus spinosa W.H. Evans, 1952  
-&ensp;&ensp;SPEC Epargyreus clavicornis (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clavicornis gaumeri F.D. Godman & O. Salvin, 1893  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clavicornis tenda W.H. Evans, 1955  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus clavicornis clavicornis (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;[SPEC Epargyreus gaumeri F.D. Godman & O. Salvin, 1893](https://journals.flvc.org/mundi/article/view/132880/136947)  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus gaumeri gaumeri F.D. Godman & O. Salvin, 1893  
+&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus gaumeri tenda W.H. Evans, 1955  
+&ensp;&ensp;SPEC Epargyreus clavicornis (G.A.W. Herrich-Schäffer, 1869)
 &ensp;&ensp;SPEC Epargyreus brodkorbi H.A. Freeman, 1969  
 &ensp;&ensp;SPEC Epargyreus deleoni H.A. Freeman, 1977  
 &ensp;&ensp;SPEC Epargyreus tmolis (H.C.C. Burmeister, 1875)  
@@ -540,7 +539,6 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Epargyreus enispe (W.C. Hewitson, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe enispe (W.C. Hewitson, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe elta W.H. Evans, 1952  
-&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unspecific wing pattern features, with no genetic data  
 #### &ensp;[GEN Chioides A.W. Lindsey, 1921](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/chioides/)
 &ensp;&ensp;SPEC Chioides albofasciatus (W.C. Hewitson, 1867)  
 &ensp;&ensp;SPEC Chioides catillus (P. Cramer, 1779)  
@@ -560,6 +558,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Aguna megaeles (P. Mabille, 1888)  
 &ensp;&ensp;&ensp;&ensp;SUBS Aguna megaeles malia W.H. Evans, 1952  
 &ensp;&ensp;&ensp;&ensp;SUBS Aguna megaeles megaeles (P. Mabille, 1888)  
+&ensp;&ensp;[SPEC Aguna mcguirei N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;SPEC Aguna metophis (P.A. Latreille, [1824])  
 &ensp;&ensp;SPEC Aguna camagura (R.C. Williams, 1926)  
 &ensp;&ensp;SPEC Aguna asander (W.C. Hewitson, 1867)  
@@ -776,8 +775,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo leo (J.F. Gmelin, [1790])  
 &ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo hagar W.H. Evans, 1952  
 &ensp;&ensp;SPEC Polygonus savigny (P.A. Latreille, [1824])  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus savigny savigny (P.A. Latreille, [1824])  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus savigny punctus E.L. Bell & W.P. Comstock, 1948  
+&ensp;&ensp;[SPEC Polygonus punctus E.L. Bell & W.P. Comstock, 1948](https://journals.flvc.org/mundi/article/view/132880/136947)  
+&ensp;&ensp;[SPEC Polygonus pardus N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 ### TRIBE Oileidini N.V. Grishin, 2019
 #### SUBTR Oileidina N.V. Grishin, 2019
 #### &ensp;[GEN Oileides J. Hübner, [1825]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/oileides/)
