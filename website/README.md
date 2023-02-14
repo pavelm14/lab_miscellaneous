@@ -793,9 +793,10 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Oileides fenestratus (J.F. Gmelin, [1790])  
 &ensp;&ensp;SPEC Oileides guyanensis (P. Mabille & E. Boullet, 1912)  
 &ensp;&ensp;SPEC Oileides vulpinus J. Hübner, [1825]  
-&ensp;&ensp;SPEC Oileides amazonensis (E.L. Bell, 1947)  
-&ensp;&ensp;&ensp;&ensp;SUBS Oileides amazonensis amazonensis (E.L. Bell, 1947)  
-&ensp;&ensp;&ensp;&ensp;SUBS Oileides amazonensis renta (W.H. Evans, 1952)  
+#### &ensp;[GEN Flattoides Grishin, 2019](https://digitalcommons.unl.edu/insectamundi/1233/)
+&ensp;&ensp;SPEC Flattoides amazonensis (E.L. Bell, 1947)  
+&ensp;&ensp;&ensp;&ensp;SUBS Flattoides amazonensis amazonensis (E.L. Bell, 1947)  
+&ensp;&ensp;&ensp;&ensp;SUBS Flattoides amazonensis renta (W.H. Evans, 1952)  
 #### SUBTR Typhedanina N.V. Grishin, 2019
 #### &ensp;[GEN Typhedanus A.G. Butler, 1870](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/typhedanus/)
 &ensp;&ensp;SPEC Typhedanus umber (G.A.W. Herrich-Schäffer, 1869)  
