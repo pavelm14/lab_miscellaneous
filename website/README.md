@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 532  
-Number of described and valid subspecies: 202
+Number of described and valid species: 554  
+Number of described and valid subspecies: 190
 
 Entheini valid species: 64  
-Phocidini valid species: 101  
-Eudamini valid species: 328  
+Phocidini valid species: 108  
+Eudamini valid species: 342  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -150,8 +150,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion bicolora (P. Boddaert, 1783)  
 &ensp;&ensp;SPEC Phocides johnsoni E.L. Bell, 1947  
 &ensp;&ensp;SPEC Phocides urania (J.O. Westwood, 1852)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides urania urania (J.O. Westwood, 1852)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides urania vida (A.G. Butler, 1872)  
+&ensp;&ensp;[SPEC Phocides vida (A.G. Butler, 1872)](https://digitalcommons.unl.edu/insectamundi/1409/)  
 &ensp;&ensp;SPEC Phocides pialia (W.C. Hewitson, 1857)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides pialia maximus (P. Mabille, 1888)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides pialia intermedia O. Mielke, 1992  
@@ -444,10 +443,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus chiriquensis meretrix (W.C. Hewitson, 1876)  
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus chiriquensis oenander (W.C. Hewitson, 1876)  
 &ensp;&ensp;SPEC Telegonus weymeri (C. Plötz, 1882)  
-&ensp;&ensp;SPEC Telegonus jaira (A.G. Butler, 1870)  
+&ensp;&ensp;[SPEC Telegonus cretellus (G.A.W. Herrich-Schäffer, 1869)](https://digitalcommons.unl.edu/insectamundi/1409/)  
 &ensp;&ensp;SPEC Telegonus cassander (J.C. Fabricius, 1793)  
 &ensp;&ensp;SPEC Telegonus cassius (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Telegonus galesus P. Mabille, 1888  
+&ensp;&ensp;[SPEC Telegonus subflavus Grishin, 2022](https://digitalcommons.unl.edu/insectamundi/1409/)  
 &ensp;&ensp;SPEC Telegonus anaphus (P. Cramer, 1777)  
 &ensp;&ensp;[SPEC Telegonus anausis F.D. Godman & O. Salvin, 1896](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8794283/)  
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus anausis annetta (W.H. Evans, 1952)  
