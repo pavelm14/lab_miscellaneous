@@ -5,19 +5,19 @@ The checklist is mainly based on Gerardo Lamas' Neotropical Checklist published 
 
 The Lamas' checklist has been also implemented in the ["Lepidoptera and some other life forms"](https://www.nic.funet.fi/pub/sci/bio/life/intro.html) website (Markku Savela). The links in every genus below redirect to such a work, where you will find all the species recognized by Lamas 2004.
 
-In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
+In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 557  
-Number of described and valid subspecies: 187
+Number of described and valid species: 561  
+Number of described and valid subspecies: 182
 
 Entheini valid species: 64  
 Phocidini valid species: 111  
-Eudamini valid species: 343  
+Eudamini valid species: 347  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
-Tribal, subtribal and genus level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with furher refinements inferred with our own target sequence and whole-genome resequencing data.
+Tribal, subtribal and genus-level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with further refinements inferred with our own target sequence and whole-genome resequencing data.
 
 We complement the phylogenetic information with the photographs available at the [Butterflies of America](http://www.butterfliesofamerica.com/L/Neotropical.htm), a digitized collection of photos of type specimens, archived collections and live butterflies found in the Neotropics
 
@@ -778,12 +778,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Telemiades nicki R.R. Siewert et al., 2021](https://doi.org/10.5281/zenodo.4721604)  
 &ensp;&ensp;\*\*\*Considered by [Siewert et al. (2020)](https://doi.org/10.11646/zootaxa.4721.1.1) as belonging to a different genus  
 #### &ensp;[GEN Polygonus J. Hübner, [1825]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/polygonus/)
+&ensp;&ensp;[SPEC Polygonus arizonensis (H. Skinner, 1911)](https://doi.org/10.5281/zenodo.7604052)  
+&ensp;&ensp;[SPEC Polygonus pallida J.K.M. Röber, 1925](https://doi.org/10.5281/zenodo.7604052)  
+&ensp;&ensp;[SPEC Polygonus histrio J.K.M. Röber, 1925](https://doi.org/10.5281/zenodo.7604052)  
 &ensp;&ensp;SPEC Polygonus leo (J.F. Gmelin, [1790])  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo arizonensis (H. Skinner, 1911)  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo pallida J.K.M. Röber, 1925  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo histrio J.K.M. Röber, 1925  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo leo (J.F. Gmelin, [1790])  
-&ensp;&ensp;&ensp;&ensp;SUBSSUBS Polygonus leo hagar W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Polygonus hagar W.H. Evans, 1952](https://doi.org/10.5281/zenodo.7604052)  
 &ensp;&ensp;SPEC Polygonus savigny (P.A. Latreille, [1824])  
 &ensp;&ensp;[SPEC Polygonus punctus E.L. Bell & W.P. Comstock, 1948](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;[SPEC Polygonus pardus N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
