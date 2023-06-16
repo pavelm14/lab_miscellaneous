@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further references.
 
 **Calculator:**  
-Number of described and valid species: 554  
-Number of described and valid subspecies: 190
+Number of described and valid species: 557  
+Number of described and valid subspecies: 187
 
 Entheini valid species: 64  
-Phocidini valid species: 108  
-Eudamini valid species: 342  
+Phocidini valid species: 111  
+Eudamini valid species: 343  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -144,10 +144,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Phocides pigmalion (P. Cramer, 1779)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion pigmalion (P. Cramer, 1779)  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion hewitsonius (P. Mabille, 1883)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion okeechobee (C.E. Worthington, 1881)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion batabanoides (W.J. Holland, 1903)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion batabano (P.H. Lucas, 1857)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides pigmalion bicolora (P. Boddaert, 1783)  
+&ensp;&ensp;[SPEC Phocides batabano (P.H. Lucas, 1857)](https://doi.org/10.5281/zenodo.5630310)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides batabano okeechobee (C.E. Worthington, 1881)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides batabano batabanoides (W.J. Holland, 1903)  
+&ensp;&ensp;&ensp;&ensp;SUBS Phocides batabano batabano (P.H. Lucas, 1857)  
+&ensp;&ensp;[SPEC Phocides bicolora (P. Boddaert, 1783)](https://doi.org/10.5281/zenodo.5630310)  
 &ensp;&ensp;SPEC Phocides johnsoni E.L. Bell, 1947  
 &ensp;&ensp;SPEC Phocides urania (J.O. Westwood, 1852)  
 &ensp;&ensp;[SPEC Phocides vida (A.G. Butler, 1872)](https://digitalcommons.unl.edu/insectamundi/1409/)  
@@ -164,8 +165,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides yokhara dryas F.L. Le Cerf, 1922  
 &ensp;&ensp;&ensp;&ensp;SUBS Phocides yokhara charonotis (W.C. Hewitson, 1874)  
 &ensp;&ensp;SPEC Phocides lincea (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides lincea lincea (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Phocides lincea perkinsi (W.J. Kaye, 1931)  
+&ensp;&ensp;[SPEC Phocides perkinsi (W.J. Kaye, 1931)](https://doi.org/10.5281/zenodo.5630310)  
 #### &ensp;[GEN Nascus E.Y. Watson, 1893](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)
 ##### &ensp;[SUBGEN Nascus E.Y. Watson, 1893](https://digitalcommons.unl.edu/insectamundi/1409/)
 &ensp;&ensp;SPEC Nascus phintias W. Schaus, 1913  
