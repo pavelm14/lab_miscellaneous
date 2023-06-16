@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 561  
-Number of described and valid subspecies: 182
+Number of described and valid species: 562  
+Number of described and valid subspecies: 180
 
 Entheini valid species: 64  
 Phocidini valid species: 111  
-Eudamini valid species: 347  
+Eudamini valid species: 348  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -565,9 +565,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Chioides marmorosa (G.A.W. Herrich-Schäffer, 1865)  
 #### SUBTR Loboclina N.V. Grishin, 2019
 #### &ensp;[GEN Aguna R.C. Williams, 1927](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/aguna/)
+&ensp;&ensp;[SPEC Aguna malia W.H. Evans, 1952](https://doi.org/10.5281/zenodo.7604052)  
 &ensp;&ensp;SPEC Aguna megaeles (P. Mabille, 1888)  
-&ensp;&ensp;&ensp;&ensp;SUBS Aguna megaeles malia W.H. Evans, 1952  
-&ensp;&ensp;&ensp;&ensp;SUBS Aguna megaeles megaeles (P. Mabille, 1888)  
 &ensp;&ensp;[SPEC Aguna mcguirei N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;SPEC Aguna metophis (P.A. Latreille, [1824])  
 &ensp;&ensp;SPEC Aguna camagura (R.C. Williams, 1926)  
