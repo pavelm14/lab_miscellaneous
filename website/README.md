@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 563  
+Number of described and valid species: 564  
 Number of described and valid subspecies: 180
 
 Entheini valid species: 64  
 Phocidini valid species: 111  
-Eudamini valid species: 349  
+Eudamini valid species: 350  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -330,6 +330,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes galapagensis (F.X. Williams, 1911)  
 &ensp;&ensp;[SPEC Cecropterus obscurus (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 ##### &ensp;[SUBGEN Murgaria Watson, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)
+&ensp;&ensp;[SPEC Cecropterus markwalkeri N.V. Grishin, 2023](https://doi.org/10.5281/zenodo.7604052)  
 &ensp;&ensp;SPEC Cecropterus albociliatus (P. Mabille, 1877)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albociliatus albociliatus (P. Mabille, 1877)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albociliatus leucophrys (P. Mabille, 1898)  
