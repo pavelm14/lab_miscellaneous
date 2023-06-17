@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 562  
+Number of described and valid species: 563  
 Number of described and valid subspecies: 180
 
 Entheini valid species: 64  
 Phocidini valid species: 111  
-Eudamini valid species: 348  
+Eudamini valid species: 349  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -334,7 +334,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albociliatus albociliatus (P. Mabille, 1877)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albociliatus leucophrys (P. Mabille, 1898)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albociliatus nocera (C. Plötz, 1882)  
-&ensp;&ensp;SPEC Cecropterus toxeus (C. Plötz, 1882)  
+&ensp;&ensp;[SPEC Cecropterus coyote (H. Skinner, 1892)](https://doi.org/10.5281/zenodo.7604052)  
+&ensp;&ensp;[SPEC Cecropterus nigrociliata (P. Mabille & E. Boullet, 1912)](https://doi.org/10.5281/zenodo.7604052)  
 &ensp;&ensp;[SPEC Cecropterus jalapus (C. Plötz, 1881)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/thessia/)  
 &ensp;&ensp;[SPEC Cecropterus athesis (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/thessia/)  
 &ensp;&ensp;[SPEC Cecropterus phalaecus (F.D. Godman & O. Salvin, 1893)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
