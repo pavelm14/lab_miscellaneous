@@ -527,8 +527,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus pseudexadeus J.O. Westwood, 1852  
 &ensp;&ensp;SPEC Epargyreus windi H.A. Freeman, 1969  
 &ensp;&ensp;[SPEC Epargyreus fractigutta N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
-&ensp;&ensp;SPEC Epargyreus cruza W.H. Evans, 1952
-&ensp;&ensp;SPEC Epargyreus exadeus (P. Cramer, 1779)
+&ensp;&ensp;SPEC Epargyreus cruza W.H. Evans, 1952  
+&ensp;&ensp;SPEC Epargyreus exadeus (P. Cramer, 1779)  
 &ensp;&ensp;SPEC Epargyreus nutra W.H. Evans, 1952  
 &ensp;&ensp;SPEC Epargyreus aspina W.H. Evans, 1952  
 &ensp;&ensp;SPEC Epargyreus spina W.H. Evans, 1952  
@@ -539,7 +539,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Epargyreus gaumeri F.D. Godman & O. Salvin, 1893](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus gaumeri gaumeri F.D. Godman & O. Salvin, 1893  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus gaumeri tenda W.H. Evans, 1955  
-&ensp;&ensp;SPEC Epargyreus clavicornis (G.A.W. Herrich-Schäffer, 1869)
+&ensp;&ensp;SPEC Epargyreus clavicornis (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;SPEC Epargyreus brodkorbi H.A. Freeman, 1969  
 &ensp;&ensp;SPEC Epargyreus deleoni H.A. Freeman, 1977  
 &ensp;&ensp;SPEC Epargyreus tmolis (H.C.C. Burmeister, 1875)  
