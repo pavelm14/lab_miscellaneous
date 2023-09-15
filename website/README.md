@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 564  
-Number of described and valid subspecies: 180
+Number of described and valid species: 565  
+Number of described and valid subspecies: 179
 
 Entheini valid species: 64  
 Phocidini valid species: 111  
-Eudamini valid species: 350  
+Eudamini valid species: 351  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -325,9 +325,9 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Cecropterus dorantes (C. Stoll, 1790)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes calafia (R.C. Williams, 1926)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes dorantes (C. Stoll, 1790)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes cramptoni (W.P. Comstock, 1944)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes santiago (P.H. Lucas, 1857)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes galapagensis (F.X. Williams, 1911)  
+&ensp;&ensp;[SPEC Cecropterus cramptoni (W.P. Comstock, 1944)](https://doi.org/10.1093/biolinnean/blad015)  
 &ensp;&ensp;[SPEC Cecropterus obscurus (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 ##### &ensp;[SUBGEN Murgaria Watson, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/achalarus/)
 &ensp;&ensp;[SPEC Cecropterus markwalkeri N.V. Grishin, 2023](https://doi.org/10.5281/zenodo.7604052)  
