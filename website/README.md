@@ -485,7 +485,7 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Narcosius S.R. Steinhauser, 1986](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/narcosius/)
 &ensp;&ensp;SPEC Narcosius colossus (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus colossus (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus granadensis (H.B. Möschler, 1879)  
+&ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus granadensis*** (H.B. Möschler, 1879)  
 &ensp;&ensp;SPEC Narcosius dosula (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Narcosius hercules (E.L. Bell, 1956)  
 &ensp;&ensp;SPEC Narcosius steinhauseri G.T. Austin, 1996  
@@ -499,6 +499,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Narcosius pseudomura G.T. Austin, 1996  
 &ensp;&ensp;SPEC Narcosius nazaraeus S.R. Steinhauser, 1986  
 &ensp;&ensp;SPEC Narcosius samson (W.H. Evans, 1952)  
+&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species apparently based on COI data, which was not presented in the paper nor deposited in a public database  
 #### &ensp;[GEN Proteides J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/proteides/)
 &ensp;&ensp;SPEC Proteides mercurius (J.C. Fabricius, 1787)  
 &ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius mercurius (J.C. Fabricius, 1787)  
