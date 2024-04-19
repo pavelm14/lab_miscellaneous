@@ -493,7 +493,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Narcosius aulina (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Narcosius parisi (R.C. Williams, 1927)  
 &ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi helen (W.H. Evans, 1952)  
-&ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi parisi (R.C. Williams, 1927)  
+&ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi parisi*** (R.C. Williams, 1927)  
 &ensp;&ensp;SPEC Narcosius odysseus G.T. Austin, 1996  
 &ensp;&ensp;SPEC Narcosius mura (R.C. Williams, 1927)  
 &ensp;&ensp;SPEC Narcosius pseudomura G.T. Austin, 1996  
