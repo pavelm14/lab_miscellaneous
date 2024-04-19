@@ -423,7 +423,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus alardus aquila (W.H. Evans, 1952)  
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus alardus alardus (C. Stoll, 1790)  
 &ensp;&ensp;SPEC Telegonus habana (P.H. Lucas, 1857)  
-&ensp;&ensp;SPEC Telegonus heriul P. Mabille & E. Boullet, 1912  
+&ensp;&ensp;SPEC Telegonus heriul+++ P. Mabille & E. Boullet, 1912  
 &ensp;&ensp;SPEC Telegonus alector (C. Felder & R. Felder, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus alector hopfferi (C. Plötz, 1881)  
 &ensp;&ensp;&ensp;&ensp;SUBS Telegonus alector alector (C. Felder & R. Felder, 1867)  
@@ -459,6 +459,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Telegonus hyster (H.G. Dyar, 1916)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/codatractus/)  
 &ensp;&ensp;[SPEC Telegonus cellus (J.B.A.D. Boisduval & J.E. Le Conte, [1837])](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Telegonus siermadror (J.M. Burns, 1984)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
+&ensp;&ensp;\+\+\+Considered by [Li et al. (2019)]([http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/](https://doi.org/10.1073/pnas.1821304116)) as full species based COI barcode differences from its apparent closest extant relative, Telegonus habana, but the GenBank Accession number reported in such a paper, JN270044, belongs to Telegonus christyi.  
 #### &ensp;[GEN Autochton J. Hübner, 1823](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)
 ##### &ensp;SUBGEN Autochton J. Hübner, 1823
 &ensp;&ensp;SPEC Autochton sulfureolus (P. Mabille, 1883)  
