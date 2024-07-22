@@ -8,10 +8,10 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 565  
+Number of described and valid species: 566  
 Number of described and valid subspecies: 179
 
-Entheini valid species: 64  
+Entheini valid species: 65  
 Phocidini valid species: 111  
 Eudamini valid species: 351  
 Oileidini valid species: 39
@@ -38,6 +38,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Drephalys opifex W.H. Evans, 1952  
 &ensp;&ensp;SPEC Drephalys olvina W.H. Evans, 1952  
 &ensp;&ensp;SPEC Drephalys olva W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Drephalys diovalis Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;SPEC Drephalys eous (W.C. Hewitson, 1867)  
 ##### &ensp;SUBGEN Paradrephalys Burns, 2000
 &ensp;&ensp;SPEC Drephalys croceus G.T. Austin, 1995  
