@@ -480,6 +480,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Astraptes mabillei S.R. Steinhauser, 1989  
 &ensp;&ensp;SPEC Astraptes halesius (W.C. Hewitson, 1877)  
 &ensp;&ensp;SPEC Astraptes aulus (C. Plötz, 1881)  
+&ensp;&ensp;[SPEC Astraptes centralis Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;SPEC Astraptes enotrus (C. Stoll, 1781)  
 &ensp;&ensp;SPEC Astraptes janeira (W. Schaus, 1902)  
 #### &ensp;[GEN Narcosius S.R. Steinhauser, 1986](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/narcosius/)
