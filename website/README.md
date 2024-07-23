@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 574  
+Number of described and valid species: 575  
 Number of described and valid subspecies: 175
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 358  
+Eudamini valid species: 359  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -325,6 +325,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus egregius egregius (A.G. Butler, 1870)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus egregius coxeyi (R.C. Williams, 1931)  
 &ensp;&ensp;[SPEC Cecropterus virescens (P. Mabille, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
+&ensp;&ensp;[SPEC Cecropterus viridissimus Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;[SPEC Cecropterus dorantes (C. Stoll, 1790)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes calafia (R.C. Williams, 1926)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus dorantes dorantes (C. Stoll, 1790)  
