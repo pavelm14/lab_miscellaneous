@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 569  
-Number of described and valid subspecies: 178
+Number of described and valid species: 574  
+Number of described and valid subspecies: 175
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 353  
+Eudamini valid species: 358  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -310,10 +310,12 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus mexicana mexicana (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus mexicana ducia W.H. Evans, 1952  
 &ensp;&ensp;SPEC Cecropterus diversus (E.Bell, 1927)  
+&ensp;&ensp;[SPEC Cecropterus oaxacensis Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;[SPEC Cecropterus indistinctus (G.T. Austin & J.F. Emmel, 1998)](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;[SPEC Cecropterus albosuffusa (H. Freeman, 1943)](https://zenodo.org/doi/10.5281/zenodo.8400883)  
 &ensp;&ensp;SPEC Cecropterus pylades (S.H. Scudder, 1870)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus pylades indistinctus (G.T. Austin & J.F. Emmel, 1998)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus pylades albosuffusa (H. Freeman, 1943)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cecropterus pylades pylades (S.H. Scudder, 1870)  
+&ensp;&ensp;[SPEC Cecropterus floridianus Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;[SPEC Cecropterus rockiensis Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.8400883)  
 &ensp;&ensp;SPEC Cecropterus drusius (W.H. Edwards, [1884])  
 &ensp;&ensp;[SPEC Cecropterus cincta C. Plötz, 1882](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
 &ensp;&ensp;[SPEC Cecropterus vectilucis (A.G. Butler, 1872)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/autochton/)  
