@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 567  
+Number of described and valid species: 568  
 Number of described and valid subspecies: 178
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 351  
+Eudamini valid species: 352  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
