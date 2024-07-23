@@ -8,10 +8,10 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 566  
-Number of described and valid subspecies: 179
+Number of described and valid species: 567  
+Number of described and valid subspecies: 178
 
-Entheini valid species: 65  
+Entheini valid species: 66  
 Phocidini valid species: 111  
 Eudamini valid species: 351  
 Oileidini valid species: 39
@@ -108,9 +108,9 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Tarsoctenus E.Y. Watson, 1893](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/tarsoctenus/)
 &ensp;&ensp;SPEC Tarsoctenus papias (W.C. Hewitson, 1857)  
 &ensp;&ensp;SPEC Tarsoctenus corytus (P. Cramer, 1777)  
-&ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus corytus gaudialis (W.C. Hewitson, 1876)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus corytus corytus (P. Cramer, 1777)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus corytus corba W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Tarsoctenus gaudialis (W.C. Hewitson, 1876)](https://zenodo.org/doi/10.5281/zenodo.7160429)  
 &ensp;&ensp;SPEC Tarsoctenus praecia (W.C. Hewitson, 1857)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia praecia (W.C. Hewitson, 1857)  
 &ensp;&ensp;&ensp;&ensp;SUBS Tarsoctenus praecia rufibasis E. Boullet, 1910  
