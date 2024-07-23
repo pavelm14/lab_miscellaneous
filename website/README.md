@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 568  
+Number of described and valid species: 569  
 Number of described and valid subspecies: 178
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 352  
+Eudamini valid species: 353  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -465,6 +465,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Autochton sulfureolus (P. Mabille, 1883)  
 &ensp;&ensp;SPEC Autochton reflexus (P. Mabille & E. Boullet, 1912)  
 &ensp;&ensp;SPEC Autochton neis (C. Geyer, 1832)  
+&ensp;&ensp;[SPEC Autochton dora Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;SPEC Autochton integrifascia (P. Mabille, 1891)  
 &ensp;&ensp;SPEC Autochton itylus J. Hübner, 1823  
 &ensp;&ensp;SPEC Autochton bipunctatus (J.F. Gmelin, [1790])  
