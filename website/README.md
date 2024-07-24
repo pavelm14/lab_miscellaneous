@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 584  
+Number of described and valid species: 587  
 Number of described and valid subspecies: 168
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 368  
+Eudamini valid species: 371  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -588,6 +588,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Aguna albistria albistria (C. Plötz, 1880)  
 &ensp;&ensp;&ensp;&ensp;SUBS Aguna albistria leucogramma (P. Mabille, 1888)  
 &ensp;&ensp;SPEC Aguna claxon W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Aguna claxonica Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;[SPEC Aguna prasinus R.R. Siewert et al., 2015](https://doi.org/10.1016/j.rbe.2015.09.005)  
 &ensp;&ensp;SPEC Aguna clina W.H. Evans, 1952  
 &ensp;&ensp;SPEC Aguna latifascia G.T. Austin & O. Mielke, 1998  
@@ -601,12 +602,14 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Aguna aurunce aurunce (W.C. Hewitson, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Aguna aurunce hypozonius (C. Plötz, 1880)  
 &ensp;&ensp;SPEC Aguna glaphyrus (P. Mabille, 1888)  
+&ensp;&ensp;[SPEC Aguna esmeralda Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;SPEC Aguna penicillata G.T. Austin & O. Mielke, 1998  
 &ensp;&ensp;SPEC Aguna spicata G.T. Austin & O. Mielke, 1998  
 &ensp;&ensp;SPEC Aguna longicauda G.T. Austin & O. Mielke, 1998  
 &ensp;&ensp;SPEC Aguna ganna (H.B. Möschler, 1879)  
 &ensp;&ensp;SPEC Aguna panama G.T. Austin & O. Mielke, 1998  
 &ensp;&ensp;SPEC Aguna spatulata G.T. Austin & O. Mielke, 1998  
+&ensp;&ensp;[SPEC Aguna lata Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;SPEC Aguna similis G.T. Austin & O. Mielke, 1998  
 &ensp;&ensp;SPEC Aguna mesodentata G.T. Austin & O. Mielke, 1998  
 &ensp;&ensp;SPEC Aguna squamalba G.T. Austin & O. Mielke, 1998  
