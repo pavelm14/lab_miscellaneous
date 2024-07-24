@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 587  
+Number of described and valid species: 589  
 Number of described and valid subspecies: 168
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 371  
+Eudamini valid species: 373  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -681,9 +681,11 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Ridens philistus philia W.H. Evans, 1952  
 &ensp;&ensp;SPEC Ridens mephitis (W.C. Hewitson, 1876)  
 &ensp;&ensp;SPEC Ridens fulminans (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;[SPEC Ridens angulinea Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;SPEC Ridens fulima W.H. Evans, 1952  
 &ensp;&ensp;SPEC Ridens pacasa (R.C. Williams, 1927)  
 &ensp;&ensp;SPEC Ridens bidens G.T. Austin, 1998  
+&ensp;&ensp;[SPEC Ridens conservationinternationalis Burns & Grishin, 2023](https://doi.org/10.4289/0013-8797.124.4.721)  
 &ensp;&ensp;SPEC Ridens allyni H.A. Freeman, 1979  
 &ensp;&ensp;SPEC Ridens bridgmani (A.G. Weeks, 1902)  
 &ensp;&ensp;SPEC Ridens miltas (F.D. Godman & O. Salvin, 1893)  
