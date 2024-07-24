@@ -353,6 +353,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albimargo albimargo (P. Mabille, 1876)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus albimargo rica*** W.H. Evans, 1952  
 &ensp;&ensp;[SPEC Cecropterus takuta (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
+&ensp;&ensp;[SPEC Cecropterus dariensis Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;[SPEC Cecropterus trebia (H.B. Möschler, 1879)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 &ensp;&ensp;[SPEC Cecropterus carmelita (G.A.W. Herrich-Schäffer, 1869)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/urbanus/)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cecropterus carmelita carmelita (G.A.W. Herrich-Schäffer, 1869)  
