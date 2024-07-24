@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 579  
-Number of described and valid subspecies: 172
+Number of described and valid species: 581  
+Number of described and valid subspecies: 168
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 363  
+Eudamini valid species: 365  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -490,22 +490,19 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Astraptes janeira (W. Schaus, 1902)  
 #### &ensp;[GEN Narcosius S.R. Steinhauser, 1986](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/narcosius/)
 &ensp;&ensp;SPEC Narcosius colossus (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus colossus (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Narcosius colossus granadensis*** (H.B. Möschler, 1879)  
+&ensp;&ensp;[SPEC Narcosius granadensis (H.B. Möschler, 1879)](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;SPEC Narcosius dosula (W.H. Evans, 1952)  
 &ensp;&ensp;SPEC Narcosius hercules (E.L. Bell, 1956)  
 &ensp;&ensp;SPEC Narcosius steinhauseri G.T. Austin, 1996  
 &ensp;&ensp;SPEC Narcosius narcosius (C. Stoll, 1790)  
 &ensp;&ensp;SPEC Narcosius aulina (W.H. Evans, 1952)  
+&ensp;&ensp;[SPEC Narcosius helen (W.H. Evans, 1952)](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;SPEC Narcosius parisi (R.C. Williams, 1927)  
-&ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi helen (W.H. Evans, 1952)  
-&ensp;&ensp;&ensp;&ensp;SUBS Narcosius parisi parisi*** (R.C. Williams, 1927)  
 &ensp;&ensp;SPEC Narcosius odysseus G.T. Austin, 1996  
 &ensp;&ensp;SPEC Narcosius mura (R.C. Williams, 1927)  
 &ensp;&ensp;SPEC Narcosius pseudomura G.T. Austin, 1996  
 &ensp;&ensp;SPEC Narcosius nazaraeus S.R. Steinhauser, 1986  
 &ensp;&ensp;SPEC Narcosius samson (W.H. Evans, 1952)  
-&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species apparently based on COI data, which was not presented in the paper nor deposited in a public database  
 #### &ensp;[GEN Proteides J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/proteides/)
 &ensp;&ensp;SPEC Proteides mercurius (J.C. Fabricius, 1787)  
 &ensp;&ensp;&ensp;&ensp;SUBS Proteides mercurius mercurius (J.C. Fabricius, 1787)  
