@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 582  
+Number of described and valid species: 584  
 Number of described and valid subspecies: 168
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 366  
+Eudamini valid species: 368  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -383,6 +383,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Urbanus proteus (C. Linnaeus, 1758)  
 &ensp;&ensp;&ensp;&ensp;SUBS Urbanus proteus proteus (C. Linnaeus, 1758)  
 &ensp;&ensp;&ensp;&ensp;SUBS Urbanus proteus domingo (S.H. Scudder, 1872)  
+&ensp;&ensp;[SPEC Urbanus cubanus Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.10372377)  
 &ensp;&ensp;SPEC Urbanus magnus S.R. Steinhauser, 1981  
 &ensp;&ensp;SPEC Urbanus pronus W.H. Evans, 1952  
 &ensp;&ensp;[SPEC Urbanus rickardi N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
@@ -400,6 +401,7 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Urbanus dubius S.R. Steinhauser, 1981  
 &ensp;&ensp;[SPEC Urbanus megalurus (P. Mabille, 1877)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
 &ensp;&ensp;[SPEC Urbanus tucuti (R.C. Williams, 1927)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)  
+&ensp;&ensp;[SPEC Urbanus meritucuti Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
 &ensp;&ensp;\+\+\+Considered by [Zhang et al. (2019)](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8570546/) as full species largely based on shotgun sequencing, but no data (phylogenetic tree) was shown in their publication. Otherwise, a subspecies of U. belli. In addition, [Zhang et al. (2023)](https://journals.flvc.org/mundi/article/view/132880/136947) synonymized Urbanus ehakernae J.M. Burns, 2014 with Urbanus alva.  
 #### &ensp;[GEN Telegonus J. Hübner, [1819]](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/astraptes/)
 ##### &ensp;SUBGEN Telegonus J. Hübner, [1819]
