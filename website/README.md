@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 575  
-Number of described and valid subspecies: 175
+Number of described and valid species: 579  
+Number of described and valid subspecies: 172
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 359  
+Eudamini valid species: 363  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -528,12 +528,12 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus huachuca profugus G.T. Austin, 1998  
 &ensp;&ensp;SPEC Epargyreus antaeus (W.C. Hewitson, 1867)  
 &ensp;&ensp;SPEC Epargyreus spanna W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Epargyreus orizaba S.H. Scudder, 1872](https://doi.org/10.1073/pnas.1821304116)  
+&ensp;&ensp;[SPEC Epargyreus dicta W.H. Evans, 1952](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;SPEC Epargyreus socus (J. Hübner, 1825)  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus orizaba*** S.H. Scudder, 1872  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus dicta W.H. Evans, 1952  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus sinus W.H. Evans, 1952  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus socus (J. Hübner, [1825])  
-&ensp;&ensp;&ensp;&ensp;SUBS Epargyreus socus pseudexadeus*** J.O. Westwood, 1852  
+&ensp;&ensp;[SPEC Epargyreus pseudexadeus J.O. Westwood, 1852](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;SPEC Epargyreus windi H.A. Freeman, 1969  
 &ensp;&ensp;[SPEC Epargyreus fractigutta N.V. Grishin, 2023](https://journals.flvc.org/mundi/article/view/132880/136947)  
 &ensp;&ensp;SPEC Epargyreus cruza W.H. Evans, 1952  
@@ -558,7 +558,6 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Epargyreus enispe (W.C. Hewitson, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe enispe (W.C. Hewitson, 1867)  
 &ensp;&ensp;&ensp;&ensp;SUBS Epargyreus enispe elta W.H. Evans, 1952  
-&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species apparently based on morphological differences without showing them.  
 #### &ensp;[GEN Chioides A.W. Lindsey, 1921](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/chioides/)
 &ensp;&ensp;SPEC Chioides albofasciatus (W.C. Hewitson, 1867)  
 &ensp;&ensp;SPEC Chioides catillus (P. Cramer, 1779)  
