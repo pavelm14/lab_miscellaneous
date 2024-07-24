@@ -8,12 +8,12 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 589  
+Number of described and valid species: 588  
 Number of described and valid subspecies: 168
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
-Eudamini valid species: 373  
+Eudamini valid species: 372  
 Oileidini valid species: 39
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
@@ -752,7 +752,6 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Telemiades chrysorrhoea F.D. Godman & O. Salvin, 1893  
 &ensp;&ensp;SPEC Telemiades contra W.H. Evans, 1953  
 &ensp;&ensp;SPEC Telemiades centrites (W.C. Hewitson, 1870)  
-&ensp;&ensp;SPEC Telemiades vespasius*** (J.C. Fabricius, 1793)  
 &ensp;&ensp;SPEC Telemiades squanda W.H. Evans, 1953  
 &ensp;&ensp;SPEC Telemiades trenda W.H. Evans, 1953  
 &ensp;&ensp;SPEC Telemiades nicomedes (H.B. Möschler, 1879)  
