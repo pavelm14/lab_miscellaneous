@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 590  
-Number of described and valid subspecies: 166
+Number of described and valid species: 597  
+Number of described and valid subspecies: 161
 
 Entheini valid species: 66  
-Phocidini valid species: 110  
+Phocidini valid species: 117  
 Eudamini valid species: 372  
 Oileidini valid species: 42
 
@@ -262,14 +262,15 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;[SPEC Bungalotis lactos W.H. Evans, 1952](http://doi.org/10.5281/zenodo.4532815)  
 #### &ensp;[GEN Euriphellus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)
 &ensp;&ensp;[SPEC Euriphellus euribates (C. Stoll, 1782)](http://doi.org/10.5281/zenodo.4532815)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates euribates (C. Stoll, 1782)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus euribates polygius*** (P.A. Latreille, [1824])  
+&ensp;&ensp;[SPEC Euriphellus polygius (P.A. Latreille, [1824])](https://doi.org/10.1073/pnas.1821304116)  
+&ensp;&ensp;[SPEC Euriphellus panador Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
+&ensp;&ensp;[SPEC Euriphellus panamicus Grishin, 2023](https://digitalcommons.unl.edu/insectamundi/1527/)  
+&ensp;&ensp;[SPEC Euriphellus lama W.H. Evans, 1952](https://doi.org/10.1073/pnas.1821304116)  
+&ensp;&ensp;[SPEC Euriphellus colombiensis Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.10372377)  
+&ensp;&ensp;[SPEC Euriphellus ecuadoricus Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.10372377)  
 &ensp;&ensp;[SPEC Euriphellus phraxanor (W.C. Hewitson, 1876)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor lama*** W.H. Evans, 1952  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor phraxanor (W.C. Hewitson, 1876)  
-&ensp;&ensp;&ensp;&ensp;SUBS Euriphellus phraxanor mena*** W.H. Evans, 1952  
+&ensp;&ensp;[SPEC Euriphellus mena W.H. Evans, 1952](https://doi.org/10.1073/pnas.1821304116)  
 &ensp;&ensp;[SPEC Euriphellus marian W.H. Evans, 1952](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)  
-&ensp;&ensp;\*\*\*Considered by [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) as full species largely based on general but unclear morphological features  
 #### &ensp;[GEN Dyscophellus F.D. Godman & O. Salvin, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/dyscophellus/)
 &ensp;&ensp;SPEC Dyscophellus porcius (C. Felder & R. Felder, 1862)  
 &ensp;&ensp;[SPEC Dyscophellus doriscus (W.C. Hewitson, 1867)](https://digitalcommons.unl.edu/insectamundi/1409/)  
