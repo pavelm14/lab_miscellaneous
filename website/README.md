@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 597  
-Number of described and valid subspecies: 161
+Number of described and valid species: 598  
+Number of described and valid subspecies: 159
 
 Entheini valid species: 66  
-Phocidini valid species: 117  
+Phocidini valid species: 118  
 Eudamini valid species: 372  
 Oileidini valid species: 42
 
@@ -172,9 +172,8 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Nascus phintias W. Schaus, 1913  
 &ensp;&ensp;SPEC Nascus phocus (P. Cramer, 1777)  
 ##### &ensp;[SUBGEN Bron Grishin, 2022](https://digitalcommons.unl.edu/insectamundi/1409/)
-&ensp;&ensp;[SPEC Nascus solon (C. Plötz, 1882)](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
-&ensp;&ensp;&ensp;&ensp;[SUBS Nascus solon corilla (W.H. Evans, [1952])](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
-&ensp;&ensp;&ensp;&ensp;[SUBS Nascus solon solon (C. Plötz, 1882)](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
+&ensp;&ensp;[SPEC Nascus corilla (W.H. Evans, [1952])](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;[SPEC Nascus lux Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.8400883)  
 &ensp;&ensp;[SPEC Nascus broteas (P. Cramer, 1780)](http://ftp.funet.fi/index/Tree_of_life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/nascus)  
 ##### &ensp;[SUBGEN Pseudonascus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)
 &ensp;&ensp;SPEC Nascus paulliniae (J. Sepp, [1842])  
