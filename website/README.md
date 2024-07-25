@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 598  
+Number of described and valid species: 597  
 Number of described and valid subspecies: 159
 
 Entheini valid species: 66  
-Phocidini valid species: 118  
+Phocidini valid species: 117  
 Eudamini valid species: 372  
 Oileidini valid species: 42
 
@@ -234,7 +234,6 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Fulvatis Grishin, 2022](https://digitalcommons.unl.edu/insectamundi/1409/)
 &ensp;&ensp;[SPEC Fulvatis fulvius (C. Plötz, 1882)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/salatis/)  
 #### &ensp;[GEN Salantoia Grishin, 2019](https://doi.org/10.1073/pnas.1821304116)
-&ensp;&ensp;[SPEC Salantoia dinka (W.H. Evans, 1952)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
 &ensp;&ensp;[SPEC Salantoia eriopis (W.C. Hewitson, 1867)](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/sarmientola/)  
 &ensp;&ensp;[SPEC Salantoia gildo (Mabille, 1888)](https://digitalcommons.unl.edu/insectamundi/1409/)  
 &ensp;&ensp;[SPEC Salantoia metallica Grishin, 2022](https://digitalcommons.unl.edu/insectamundi/1409/)  
