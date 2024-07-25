@@ -8,13 +8,13 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 588  
-Number of described and valid subspecies: 168
+Number of described and valid species: 591  
+Number of described and valid subspecies: 166
 
 Entheini valid species: 66  
 Phocidini valid species: 111  
 Eudamini valid species: 372  
-Oileidini valid species: 39
+Oileidini valid species: 42
 
 **[Phylogeny of Eudaminae](https://htmlpreview.github.io/?https://github.com/pavelm14/lab_miscellaneous/blob/main/website/eudaminae.html)**   
 Tribal, subtribal and genus-level phylogenetic relationships were extracted from [Li et al. (2019)](https://doi.org/10.1073/pnas.1821304116) with further refinements inferred with our own target sequence and whole-genome resequencing data.
@@ -847,12 +847,13 @@ We complement the phylogenetic information with the photographs available at the
 &ensp;&ensp;SPEC Cogia hippalus (W.H. Edwards, 1882)  
 &ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus peninsularis L.D. Miller & C.D. MacNeill, 1969  
 &ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus hippalus (W.H. Edwards, 1882)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus hiska W.H. Evans, 1953  
-&ensp;&ensp;&ensp;&ensp;SUBS Cogia hippalus hester W.H. Evans, 1953  
+&ensp;&ensp;[SPEC Cogia hiska W.H. Evans, 1953](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;&ensp;&ensp;[SUBS Cogia hiska hiska W.H. Evans, 1953](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;&ensp;&ensp;[SUBS Cogia hiska hester W.H. Evans, 1953](https://zenodo.org/doi/10.5281/zenodo.8400883)  
 &ensp;&ensp;SPEC Cogia azila W.H. Evans, 1953  
-&ensp;&ensp;SPEC Cogia caicus (G.A.W. Herrich-Schäffer, 1869)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cogia caicus moschus (W.H. Edwards, 1882)  
-&ensp;&ensp;&ensp;&ensp;SUBS Cogia caicus caicus (G.A.W. Herrich-Schäffer, 1869)  
+&ensp;&ensp;[SPEC Cogia chiagua Grishin, 2023](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;[SPEC Cogia moschus (W.H. Edwards, 1882)](https://zenodo.org/doi/10.5281/zenodo.8400883)  
+&ensp;&ensp;[SPEC Cogia caicus (G.A.W. Herrich-Schäffer, 1869)](https://zenodo.org/doi/10.5281/zenodo.8400883)  
 &ensp;&ensp;SPEC Cogia calchas (G.A.W. Herrich-Schäffer, 1869)  
 &ensp;&ensp;SPEC Cogia grandis N.D. Riley, 1921  
 &ensp;&ensp;SPEC Cogia elaites (W.C. Hewitson, 1867)  
