@@ -8,11 +8,11 @@ The Lamas' checklist has been also implemented in the ["Lepidoptera and some oth
 In cases of updates (revisions, new species descriptions, etc.), we provide the links to the original publications for further reference.
 
 **Calculator:**  
-Number of described and valid species: 591  
+Number of described and valid species: 590  
 Number of described and valid subspecies: 166
 
 Entheini valid species: 66  
-Phocidini valid species: 111  
+Phocidini valid species: 110  
 Eudamini valid species: 372  
 Oileidini valid species: 42
 
@@ -249,7 +249,6 @@ We complement the phylogenetic information with the photographs available at the
 #### &ensp;[GEN Bungalotis E.Y. Watson, 1893](https://ftp.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/hesperioidea/hesperiidae/pyrginae/bungalotis/)
 &ensp;&ensp;SPEC Bungalotis erythus (P. Cramer, 1775)  
 &ensp;&ensp;[SPEC Bungalotis corentinus (C. Plötz, 1882)](https://digitalcommons.unl.edu/insectamundi/1409/)  
-&ensp;&ensp;SPEC Bungalotis gagarini O. Mielke, 1967  
 &ensp;&ensp;SPEC Bungalotis midas (P. Cramer, 1775)  
 &ensp;&ensp;[SPEC Bungalotis aureus Austin, 2008](http://doi.org/10.5281/zenodo.4532815)  
 &ensp;&ensp;SPEC Bungalotis astylos (P. Cramer, 1780)  
