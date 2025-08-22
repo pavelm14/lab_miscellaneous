@@ -14,6 +14,15 @@ We will also use FigTree (https://github.com/rambaut/figtree/releases) to view a
 
 The latest version of Tracer (https://github.com/beast-dev/tracer/releases) will be used to check posterior parameter estimates and statistics.
 
+### Installation of BEAST2 packages
+
+For this tutorial, we will need:
+
+**bModelTest**: This package performs substitution model averaging, thus reducing computational resources while simultaneously averaging out model uncertainty and the phylogeny inference. The method is described in [Bouckaert & Drummond, 2017](https://doi.org/10.1186/s12862-017-0890-6).
+
+**ORC**: This package implements the Optimised Relaxed Clock model, which performs optimisations of the uncorrelated relaxed clock ([Douglas et al. 2021](https://doi.org/10.1371/journal.pcbi.1008322)). Please, read more about phylogenetic clock models to fully understand different models and the importance of comparing them (e.g., strict vs. relaxed clocks).
+
+To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Packages*. Once you install or upgrade the BEAST2 packages of interest, restart BEAUti to fully incorporate the package options in the interface.
 
 We use model-based inferences using the R package BioGeoBEARS ([Matzke, 2013](https://doi.org/10.21425/F5FBG19694)). For more information about the functionalities, please visit the program's wiki: http://phylo.wikidot.com/biogeobears. We will also infer biogeographical parameters acknowledging speciation and extinction events in a state speciation and extinction context (LEMAD, [Herrera-Alsina et al, 2022](https://doi.org/10.1111/jbi.14489)). For more information about the functionalities, visit the [LEMAD tutorial](https://htmlpreview.github.io/?https://github.com/leonelhalsina/lemad/blob/main/vignettes/Using_lemad.html).
 
