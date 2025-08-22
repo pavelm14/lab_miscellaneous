@@ -2,6 +2,8 @@
 
 Several R packages designed for evolutionary studies are already installed in the MetaCentrum. However, you might want to use R packages that are not there yet. In those cases, you need to install them locally at your home directory in MetaCentrum.
 
+In this tutorial, we will work using the Metacentrum's frontend 'praha1' (address: tarkil.grid.cesnet.cz), which has OS Debian 12. More information about frontends at https://docs.metacentrum.cz/en/docs/computing/infrastructure/frontends
+
 First, you need to create a working directory as the default to install and load R packages from.
 
 ```bash
