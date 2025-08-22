@@ -11,14 +11,14 @@ First, you need to create a working directory as the default to install and load
 ##remember to replace the 'username' with yours!
 ssh -x username@tarkil.grid.cesnet.cz
 
-#create a subdirectory where to store r packages
+#create a subdirectory where to store R packages
 mkdir -p software/R/packages
 ```
 
-By the time of writing this tutorial (April 2022), the latest R version installed in MetaCentrum was `R-4.0.0-gcc`. You can of course install your own R version locally at your home directory.
+By the time of writing this tutorial (August 2024), the latest R version installed in Metacentrum was `R-4.4.0-gcc`.
 
 ```bash
-module add R-4.0.0-gcc
+module add r/4.4.0-gcc-10.2.1-ssuwpvb
 ##if you want to use the latest available R version in MetaCentrum, use `module avail` to see the list of modules/programs
 
 ##to open the R console
@@ -33,7 +33,7 @@ Once in the R console, you will be able to install and load packages from a loca
 install.packages("devtools", lib="/storage/praha1/home/pavelmatos/software/R/packages")
 
 #you need to select the CRAN mirror.
-#type 29 (Czech republic), and enter
+#type 28 (Czech Republic), and enter
 
 #let's load the locally installed `devtools`
 library(devtools, lib.loc="/storage/praha1/home/pavelmatos/software/R/packages")
