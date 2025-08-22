@@ -2,12 +2,12 @@
 
 Several R packages designed for evolutionary studies are already installed in the MetaCentrum. However, you might want to use R packages that are not there yet. In those cases, you need to install them locally at your home directory in MetaCentrum.
 
-First, you need to set a directory as default to install and load R packages from.
+First, you need to create a working directory as the default to install and load R packages from.
 
 ```bash
 ##in the MobaXterm terminal, log in to the MetaCentrum
-##remember to replace my username 'pavelmatos' with yours!
-ssh -x pavelmatos@tarkil.grid.cesnet.cz
+##remember to replace the 'username' with yours!
+ssh -x username@tarkil.grid.cesnet.cz
 
 #create a subdirectory where to store r packages
 mkdir -p software/R/packages
