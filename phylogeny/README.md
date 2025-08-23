@@ -31,16 +31,18 @@ export PATH="/storage/praha1/home/pavelmatos/software/iqtree-2.4.0-Linux-intel/b
 ## Ctrl+x -> Save Y
 ```
 
-## Input files
-
-- A time-calibrated molecular phylogeny in Newick format
-- A distributional matrix containing the extant areas occupied by each species in the study phylogeny, as presence (1) absence (0) (BioGeoBEARS, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.phy))
-- A distributional matrix containing the extant areas occupied by each species as characters and comma-delimited (LEMAD, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.csv))
-
-
 To use IQ-TREE next time you log in to Metacentrum, do the following:
 
 ```bash
 source ~/.bashrc
 iqtree2 -h
 ```
+
+## Input files
+
+We will work with species in the butterfly tribe [Haeterini](https://en.wikipedia.org/wiki/Haeterini). The data comes from a phylogenetic and species-delimitation study of this group ([Matos-Maraví et al. 2019](https://doi.org/10.1111/syen.12352))
+
+- A concatenated alignment of five protein-coding genes in Nexus format ([haeterini_concatenated.nex])
+- A subset configuration file describing the positions of protein-coding genes and their codon positions in the concatenated alignment ([haeterini_subsets.nex])
+
+
