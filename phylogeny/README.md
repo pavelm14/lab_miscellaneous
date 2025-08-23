@@ -42,7 +42,6 @@ iqtree2 -h
 
 We will work with species in the butterfly tribe [Haeterini](https://en.wikipedia.org/wiki/Haeterini). The data comes from a phylogenetic and species-delimitation study of this group ([Matos-Maraví et al. 2019](https://doi.org/10.1111/syen.12352))
 
-- A concatenated alignment of five protein-coding genes in Nexus format ([haeterini_concatenated.nex])
-- A subset configuration file describing the positions of protein-coding genes and their codon positions in the concatenated alignment ([haeterini_subsets.nex])
-
+- A concatenated alignment of five protein-coding genes in Nexus format ([haeterini_concatenated.nex](https://github.com/pavelm14/lab_miscellaneous/blob/main/phylogeny/haeterini_concatenated.nex))
+- A subset configuration file describing the positions of protein-coding genes and their codon positions in the concatenated alignment ([haeterini_subsets.nex](https://github.com/pavelm14/lab_miscellaneous/blob/main/phylogeny/haeterini_subsets.nex))
 
