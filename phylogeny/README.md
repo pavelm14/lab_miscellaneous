@@ -6,4 +6,34 @@ PartitionFinder ([Lanfear et al. 2012](https://doi.org/10.1093/molbev/mss020); [
 
 ## Installation
 
-BEAST2 comes with a graphical user interface called BEAUti. This software is useful for installing and managing all available BEAST2 packages, and for creating input files in .xml format.
+As of August 2025, the latest IQ-TREE release was 2.4.0. You can find them at https://github.com/iqtree/iqtree2/releases.
+
+```bash
+##in the MobaXterm terminal, log in to the MetaCentrum
+##remember to replace the 'username' with yours!
+ssh -x username@tarkil.grid.cesnet.cz
+
+#install iq-tree in your software directory
+cd ~/software/
+wget https://github.com/iqtree/iqtree2/releases/download/v2.4.0/iqtree-2.4.0-Linux-intel.tar.gz
+tar iqtree-2.4.0-Linux-intel.tar.gz
+rm iqtree-2.4.0-Linux-intel.tar.gz
+```
+
+For convenience, I add IQ-TREE's `bin` directory to my $PATH to use the commands directly on the screen.
+
+```bash
+cd ~
+nano ~/.bashrc
+
+## Add the following text to the last line of .bashrc
+export PATH="/storage/plzen1/home/pavelmatos/software/iqtree-2.0.5-Linux/bin:$PATH"
+## Ctrl+x -> Save Y
+```
+
+To use IQ-TREE next time you log in to Metacentrum, do the following:
+
+```bash
+source ~/.bashrc
+iqtree2 -h
+```
