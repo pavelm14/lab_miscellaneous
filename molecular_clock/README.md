@@ -37,3 +37,8 @@ We will use a secondary calibration approach to infer the divergence times in th
 First, we will create an XML file. Launch BEAUti and import the partitioned concatenated alignment by clicking on the tab *File* -> *Import Alignment*. Following, as we will infer a single concatenated phylogeny, we will link the *Tree* models across the 5 partitions. Select all the partitions and click the button *Link Trees*. Now, all partitions should have the same Tree name, which can be renamed by double-clicking on the Tree boxes.
 
 ![BEAUti Link Trees](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_LinkTrees.png)
+
+For simplicity, we will also link the *Clock* models across the 5 partitions. This assumes that all loci in our dataset have evolved under the same molecular clock. In a more thorough analysis, we would want to test the effects of linking or unlinking *Clock* models, for example, via path sampling in BEAST2 (using Bayes factors) or by using methods that estimate patterns of among-lineage rate variation (e.g., clock-partitioning strategy, [Clockstar2](https://github.com/sebastianduchene/ClockstaR)). I made a tutorial on how to use Clockstar2 in Metacentrum [here](https://github.com/pavelm14/Eudaminae_phylogeny/blob/master/bioinformatics/installations/ClockstaR.md).
+
+More information about model selection and molecular clocks in the BEAST2 environment: https://beast.community/clocks
+
