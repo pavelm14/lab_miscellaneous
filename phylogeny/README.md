@@ -16,7 +16,7 @@ ssh -x username@tarkil.grid.cesnet.cz
 #install iq-tree in your software directory
 cd ~/software/
 wget https://github.com/iqtree/iqtree2/releases/download/v2.4.0/iqtree-2.4.0-Linux-intel.tar.gz
-tar iqtree-2.4.0-Linux-intel.tar.gz
+tar -zxvf iqtree-2.4.0-Linux-intel.tar.gz
 rm iqtree-2.4.0-Linux-intel.tar.gz
 ```
 
