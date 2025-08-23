@@ -32,7 +32,11 @@ To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Pa
 
 # Inferring a time-calibrated phylogeny of Haeterini
 
-We will use a secondary calibration approach to infer the divergence times in the clade consisting of the genera *Cithaerias*, *Dulcedo*, *Haetera* and *Pseudohaetera*. A species in the genus *Pierella* is used as an outgroup.
+We will use a secondary calibration approach to infer the divergence times in the clade consisting of the genera *Cithaerias*, *Dulcedo*, *Haetera* and *Pseudohaetera*. A species in the genus *Pierella* is used as an outgroup. We will use two nodes for calibration: the crown age of extant Haeterini and the crown age of the clade of interest (i.e., *Dulcedo*, *Cithaerias*, etc.).
+
+Matos-Maraví et al. ([2019](https://doi.org/10.1111/syen.12352)) estimated the 95% highest posterior density (HPD) of crown Haeterini ranging between 21.8 and 32.7 Myr (median: 27.2 Myr) and the 95% HPD of the clade of interest's crown age ranging between 13.7 and 20.5 Myr (median: 16.9 Myr). We will use this information to time calibrate our phylogeny.
+
+Note that for your research, you might want to compare using the 95% HPD and the full posterior range as calibrations, as well as preferably use estimates coming from fossil-based chronograms and, whenver possible, use fossil calibrations.
 
 First, we will create an XML file. Launch BEAUti and import the partitioned concatenated alignment by clicking on the tab *File* -> *Import Alignment*. Following, as we will infer a single concatenated phylogeny, we will link the *Tree* models across the 5 partitions. Select all the partitions and click the button *Link Trees*. Now, all partitions should have the same Tree name, which can be renamed by double-clicking on the Tree boxes.
 
