@@ -66,3 +66,5 @@ Let's understand what we have done above:
 `--merge` calls PartitionFinder-like method to merge partitions and increase model fit
 
 `--merge greedy` sets the merging algorithm to the greedy strategy of PartitonFinder (other options include `rcluster` and `rclusterf` [default]; see PartitionFinder's manual for further explanation)
+
+The resulting file `haeterini_subsets.nex.best_scheme` contains the best-fit partitioning scheme for our dataset
