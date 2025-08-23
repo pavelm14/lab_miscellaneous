@@ -67,4 +67,21 @@ Let's understand what we have done above:
 
 `--merge greedy` sets the merging algorithm to the greedy strategy of PartitonFinder (other options include `rcluster` and `rclusterf` [default]; see PartitionFinder's manual for further explanation)
 
-The resulting file `haeterini_subsets.nex.best_scheme` contains the best-fit partitioning scheme for our dataset
+The resulting file `haeterini_subsets.nex.best_scheme.nex` contains the best-fit partitioning scheme for our dataset:
+
+```bash
+#nexus
+begin sets;
+  charset COI_pos1 = 1-1475\3;
+  charset COI_pos2 = 2-1475\3;
+  charset COI_pos3_EF1a_pos3_GAPDH_pos3_Rp5S_pos3_wgl_pos3 = 3-1475\3  1478-2715\3  2718-3406\3  3409-4023\3  4026-4435\3;
+  charset EF1a_pos1_GAPDH_pos1_Rp5S_pos1_wgl_pos1 = 1476-2715\3  2716-3406\3  3407-4023\3  4024-4435\3;
+  charset EF1a_pos2_GAPDH_pos2_Rp5S_pos2_wgl_pos2 = 1477-2715\3  2717-3406\3  3408-4023\3  4025-4435\3;
+  charpartition mymodels =
+    K3Pu+F+G4: COI_pos1,
+    TN+F+I: COI_pos2,
+    K3Pu+F+I: COI_pos3_EF1a_pos3_GAPDH_pos3_Rp5S_pos3_wgl_pos3,
+    TIM2+F+I: EF1a_pos1_GAPDH_pos1_Rp5S_pos1_wgl_pos1,
+    TN+F+I: EF1a_pos2_GAPDH_pos2_Rp5S_pos2_wgl_pos2;
+end;
+```
