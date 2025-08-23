@@ -1,0 +1,18 @@
+#NEXUS
+begin sets;
+    charset COI_pos1 = 1-1475\3;
+    charset COI_pos2 = 2-1475\3;
+    charset COI_pos3 = 3-1475\3;
+    charset EF1a_pos1 = 1476-2715\3;
+    charset EF1a_pos2 = 1477-2715\3;
+    charset EF1a_pos3 = 1478-2715\3;
+    charset GAPDH_pos1 = 2716-3406\3;
+    charset GAPDH_pos2 = 2717-3406\3;
+    charset GAPDH_pos3 = 2718-3406\3;
+    charset Rp5S_pos1 = 3407-4023\3;
+    charset Rp5S_pos2 = 3408-4023\3;
+    charset Rp5S_pos3 = 3409-4023\3;
+    charset wgl_pos1 = 4024-4435\3;
+    charset wgl_pos2 = 4025-4435\3;
+    charset wgl_pos3 = 4026-4435\3;
+END;
