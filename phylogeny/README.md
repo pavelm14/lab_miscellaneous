@@ -56,8 +56,13 @@ iqtree2 -s ./haeterini_concatenated.nex -p ./haeterini_subsets.nex -T AUTO -m TE
 Let's understand what we have done above:
 
 `-s` calls the alignment file. IQ-TREE supports the following formats: Phylip, Fasta, Nexus, ClustalF, MSF
+
 `-p` calls the partition file. IQ-TREE supports the following formats: Nexus and RAxML. Note that this option assumes the edge-linked proportional partition model (see IQ-TREE's manual for other options; `iqtree2 -h`)
+
 `-T` sets the number of cores/threads the program can use (default: 1; AUTO: will automatically detect)
+
 `-m` calls ModelFinder to perform the standard model selection, like jModelTest, ProtTest, etc (TESTONLY: does model selection only; TEST: model selection followed by tree inference; see the manual for other model selection approaches)
+
 `--merge` calls PartitionFinder-like method to merge partitions and increase model fit
+
 `--merge greedy` sets the merging algorithm to the greedy strategy of PartitonFinder (other options include `rcluster` and `rclusterf` [default]; see PartitionFinder's manual for further explanation)
