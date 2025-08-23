@@ -22,7 +22,7 @@ For this tutorial, we will need:
 
 **ORC**: This package implements the Optimised Relaxed Clock model, which performs optimisations of the uncorrelated relaxed clock ([Douglas et al. 2021](https://doi.org/10.1371/journal.pcbi.1008322)). Please, read more about phylogenetic clock models to fully understand different models and the importance of comparing them (e.g., strict vs. relaxed clocks).
 
-To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Packages*. Once you install or upgrade the BEAST2 packages of interest, restart BEAUti to fully incorporate the package options in the interface.
+To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Packages*. Once you install or upgrade the BEAST2 packages of interest (**bModelTest** and **ORC**), restart BEAUti to fully incorporate the package options in the interface.
 
 ![BEAUti Package Manager](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_PackageManager.png)
 
