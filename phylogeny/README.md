@@ -27,7 +27,7 @@ cd ~
 nano ~/.bashrc
 
 ## Add the following text to the last line of .bashrc
-export PATH="/storage/plzen1/home/pavelmatos/software/iqtree-2.0.5-Linux/bin:$PATH"
+export PATH="/storage/praha1/home/pavelmatos/software/iqtree-2.4.0-Linux-intel/bin:$PATH"
 ## Ctrl+x -> Save Y
 ```
 
