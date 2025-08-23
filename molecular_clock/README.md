@@ -24,9 +24,7 @@ For this tutorial, we will need:
 
 To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Packages*. Once you install or upgrade the BEAST2 packages of interest, restart BEAUti to fully incorporate the package options in the interface.
 
-We use model-based inferences using the R package BioGeoBEARS ([Matzke, 2013](https://doi.org/10.21425/F5FBG19694)). For more information about the functionalities, please visit the program's wiki: http://phylo.wikidot.com/biogeobears. We will also infer biogeographical parameters acknowledging speciation and extinction events in a state speciation and extinction context (LEMAD, [Herrera-Alsina et al, 2022](https://doi.org/10.1111/jbi.14489)). For more information about the functionalities, visit the [LEMAD tutorial](https://htmlpreview.github.io/?https://github.com/leonelhalsina/lemad/blob/main/vignettes/Using_lemad.html).
-
-For people aiming to run the analyses using the Czech computer cluster [Metacentrum](https://metavo.metacentrum.cz/en/index.html), you can follow our tutorial ([click here](https://github.com/pavelm14/lab_miscellaneous/tree/main/Rpackages)) describing the process of installing R packages and running R scripts there.
+![BEAUti Package Manager](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_PackageManager.png)
 
 ## Input files
 
