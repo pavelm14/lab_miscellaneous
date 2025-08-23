@@ -31,6 +31,13 @@ export PATH="/storage/praha1/home/pavelmatos/software/iqtree-2.4.0-Linux-intel/b
 ## Ctrl+x -> Save Y
 ```
 
+## Input files
+
+- A time-calibrated molecular phylogeny in Newick format
+- A distributional matrix containing the extant areas occupied by each species in the study phylogeny, as presence (1) absence (0) (BioGeoBEARS, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.phy))
+- A distributional matrix containing the extant areas occupied by each species as characters and comma-delimited (LEMAD, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.csv))
+
+
 To use IQ-TREE next time you log in to Metacentrum, do the following:
 
 ```bash
