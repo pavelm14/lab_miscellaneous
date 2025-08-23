@@ -29,3 +29,11 @@ To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Pa
 ## Input file
 
 - A concatenated alignment of five protein-coding genes in Nexus format. This file includes the best-fit partitioning scheme estimated in the [Phylogeny tutorial](https://github.com/pavelm14/lab_miscellaneous/tree/main/phylogeny) ([haeterini_partitioned.nex](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/haeterini_partitioned.nex)).
+
+# Inferring a time-calibrated phylogeny of Haeterini
+
+We will use a secondary calibration approach to infer the divergence times in the clade consisting of the genera *Cithaerias*, *Dulcedo*, *Haetera* and *Pseudohaetera*. A species in the genus *Pierella* is used as an outgroup.
+
+First, we will create an XML file. Launch BEAUti and import the partitioned concatenated alignment by clicking on the tab *File* -> *Import Alignment*. Following, as we will infer a single concatenated phylogeny, we will link the *Tree* models across the 5 partitions. Select all the partitions and click the button *Link Trees*. Now, all partitions should have the same Tree name, which can be renamed by double-clicking on the Tree boxes.
+
+![BEAUti Link Trees](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_LinkTrees.png)
