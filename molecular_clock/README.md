@@ -26,8 +26,6 @@ To install BEAST2 packages, launch BEAUti and go to the tab *File* -> *Manage Pa
 
 ![BEAUti Package Manager](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_PackageManager.png)
 
-## Input files
+## Input file
 
-- A time-calibrated molecular phylogeny in Newick format
-- A distributional matrix containing the extant areas occupied by each species in the study phylogeny, as presence (1) absence (0) (BioGeoBEARS, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.phy))
-- A distributional matrix containing the extant areas occupied by each species as characters and comma-delimited (LEMAD, [see here](https://github.com/pavelm14/lab_miscellaneous/blob/main/biogeography/tutorial/distribution.csv))
+- A concatenated alignment of five protein-coding genes in Nexus format. This file includes the best-fit partitioning scheme estimated in the [Phylogeny tutorial](https://github.com/pavelm14/lab_miscellaneous/tree/main/phylogeny) ([haeterini_partitioned.nex](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/haeterini_partitioned.nex)).
