@@ -48,3 +48,7 @@ For simplicity, we will also link the *Clock* models across the 5 partitions. Th
 
 More information about model selection and molecular clocks in the BEAST2 environment: https://beast.community/clocks
 
+Second, we will use bModelTest to integrate out and perform model averaging of site models simultaneously with the inference of phylogeny. Select the tab *Site Model* and change the *Gamma Site Model* to *BEAST Model Test* in all partitions.
+
+![BEAUti bModelTest](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_bModelTest.png)
+
