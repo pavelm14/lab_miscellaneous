@@ -54,4 +54,18 @@ Second, we will use bModelTest to integrate out and perform model averaging of s
 
 Third, we will set our clock model to the Optimised Relaxed Clock (see more about molecular clocks in [BEAST](https://taming-the-beast.org/tutorials/Molecular-clock-dating-and-modelling-rate-variation/) and [BEAST2](https://beast2-dev.github.io/hmc/hmc/Standard/Clock_Model/) tutorials). We will estimate the clock rate given the secondary calibration information. To allow this, go to *Mode* -> uncheck the *Automatic set clock rate*.
 
-Fourth, 
+Fourth, we will add the two secondary calibrations. Go to the *Priors* panel and click on the `+ Add Prior` button at the bottom of the panel. Select the "MRCA prior" to use the most-recent common ancestor option.
+
+We will group all species in our dataset into a set named "haeterini"
+
+![BEAUti taxongroup](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_taxongroup.png)
+
+We will repeat this procedure again to define our clade of interest, consisting of all taxa in the dataset except *Pierella helvina*.
+
+We will then constrain both taxon groups as "monophyletic" and assign a prior distribution for their ages. We will use a Normal distribution. For the crown Haeterini, let's assign a Mean of 26.4 and a Sigma of 4.0, whereas for the clade of interest, let's have a Mean of 17.8 and a Sigma of 2.5. In this way, the 2.5% Quantiles of their distribution encompass the 95% HPD interval.
+
+![BEAUti calibrations](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_calibrations.png)
+
+Finally, in the *MCMC* panel, you can define the Chain Length and the sampling proportions of trees and parameters. Let's leave them as default (i.e., 10 million generations, sampling every 1,000 generation, thus generating 10,000 posterior estimates).
+
+Save the settings as an XML file and run BEAST. Have fun!
