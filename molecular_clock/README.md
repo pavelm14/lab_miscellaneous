@@ -52,3 +52,6 @@ Second, we will use bModelTest to integrate out and perform model averaging of s
 
 ![BEAUti bModelTest](https://github.com/pavelm14/lab_miscellaneous/blob/main/molecular_clock/BEAUti_bModelTest.png)
 
+Third, we will set our clock model to the Optimised Relaxed Clock (see more about molecular clocks in [BEAST](https://taming-the-beast.org/tutorials/Molecular-clock-dating-and-modelling-rate-variation/) and [BEAST2](https://beast2-dev.github.io/hmc/hmc/Standard/Clock_Model/) tutorials). We will estimate the clock rate given the secondary calibration information. To allow this, go to *Mode* -> uncheck the *Automatic set clock rate*.
+
+Fourth, 
